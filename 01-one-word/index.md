@@ -1,5 +1,6 @@
 # One Word — "OK" 🐳
-Greetings! Feel free peruse the links provided below to gain insight into my essay composition process about two-letter word "OK":
+## Greetings! 
+Feel free peruse the links provided below to gain insight into my essay composition process about two-letter word "OK":
 - [Rough Draft](rough-draft.md)
 - [First Draft](first-draft.md)
 - [Revision](revision.md)
