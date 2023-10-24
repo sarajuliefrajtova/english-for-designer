@@ -7,4 +7,4 @@
 
 
 ## Rough Draft
-Unfortunately, I missed this step… and began by creating a complete version of the text.
+Unfortunately, I missed this step… ☹️ and began by creating a complete version of the text. **However**, don't forget to [continue](first-draft.md).
