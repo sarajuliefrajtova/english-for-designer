@@ -42,11 +42,11 @@ During this step, I was thinking about editing my text. In order that, I decided
 - Supporting point: It’s acceptable to have a negative opinion of the word "OK" due its often unfulfilling and unemotional nature in conversation.
 
 
-- ### The Conclusion
+### The Conclusion
 So, there’s to "OK" – the two-letter word which can both confuse and frustrate us, all while making us feel like we didn't really say anything at all. Nonetheless, it’s "OK" to dislike it, right?
 
 
-- ### The Takeaway
+### The Takeaway
 In a nutshell, this essay highlights the unexpected depth and complexity of the word "OK" in our digital communication era. It's a reflection of how our conversations have evolved in a fast-paced world, capable of both captivating and frustrating us. It serves as a reminder that even in brief exchanges, the choice of words can profoundly affect our communication.
 
 > [!NOTE]
