@@ -7,4 +7,4 @@
 
 
 ## Rough Draft
-Something will be there
+Unfortunately, I missed this step… and began by creating a complete version of the text.
