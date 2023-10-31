@@ -23,5 +23,5 @@ Yes, I'm referring to the word "OK". My parents love to use this kind of biped w
 
 So, there’s to "OK" – the two-letter word which can both confuse and frustrate us, all while making us feel like we didn't really say anything at all. Nonetheless, it’s "OK" to dislike it, right?
 
-<img src="Satiric_Illustration_About_Heartfelt_Robotic_Conversation.jpg" alt="will add">
+<img src="./Satiric_Illustration_About_Heartfelt_Robotic_Conversations.jpeg" alt="will add" />
 
