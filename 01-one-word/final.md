@@ -7,7 +7,6 @@
 
 
 ## Final version
-### By using [Hemnigway editor](https://hemingwayapp.com/) 🛶
 
 Ah, "OK". The two-letter responses — for those of ones who haven’t ever heard about this stunning word yet, poor you. Poor you, if you love to stand at the edge of blandness and confusion at the same time. 
 
