@@ -1,6 +1,6 @@
 # One Word — "OK" 🐳
 
-By Sára Julie Frajtová[instagram.com/sarajuliefrajtova]
+By [Sára Julie Frajtová](instagram.com/sarajuliefrajtova)
 
 28. 10. 2023
 
