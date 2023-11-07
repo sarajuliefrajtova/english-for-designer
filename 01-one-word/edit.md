@@ -7,7 +7,7 @@
 
 
 ## Edit
-### During this step I used [Hemnigway editor](https://hemingwayapp.com/) 🛶 to edit my text.
+### / During this step I used [Hemnigway editor](https://hemingwayapp.com/) 🛶 to edit my text. /
 
 Ah, "OK". The two-letter responses — for those of ones who haven’t ever heard about this stunning word yet, poor you. Poor you, if you love to stand at the edge of blandness and confusion at the same time. 
 
