@@ -2,7 +2,7 @@
 
 By [Sára Julie Frajtová](https://www.instagram.com/sarajuliefrajtova/)
 
-28. 10. 2023
+28. 11. 2023
 
 - [Rough Draft](rough-draft.md)
 - [First Draft](first-draft.md)
