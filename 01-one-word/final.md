@@ -18,7 +18,7 @@ At first, I tried to decode the hidden meaning behind this seemingly simple word
 
 I've come to one realisation. It's connected with our parents (especially gen x). Same as they are discovering beauty of traditional social medias (Facebook, YouTube, Instagram). They've also discovered beauty of some words. Words that our generation consider as an anachronism. 
 
-Yes, I'm referring to the word "OK". My parents love to use this kind of biped word. My mum has even her own mesmerising combination: "OK" plus „thumbs up" emoji. I understand, they just try to be modern and kind as well. But let's be honest, it's the ultimate conversation killer, a linguistic underachiever. A word that makes you question whether you ever asked for a reply in the first place.
+Yes, I'm referring to the word "OK". My parents love to use this kind of biped word. My mum has even her own mesmerising combination: "OK" plus "thumbs up" emoji. I understand, they just try to be modern and kind as well. But let's be honest, it's the ultimate conversation killer, a linguistic underachiever. A word that makes you question whether you ever asked for a reply in the first place.
 
 So, there’s to "OK" – the two-letter word which can both confuse and frustrate us, all while making us feel like we didn't really say anything at all. Nonetheless, it’s "OK" to dislike it, right?
 
