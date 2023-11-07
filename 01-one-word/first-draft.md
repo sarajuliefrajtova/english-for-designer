@@ -22,5 +22,5 @@ I've come to one realisation. In a similar way as our parents are discovering be
 So, there’s to "OK" – the two-letter word which can both confuse and frustrate us, all while making us feel like we didn’t say anything at all. Nonetheless, it’s "OK" to dislike it, right?
 
 > [!NOTE]
-> **Congrats!** You did it! You can [continue](revision.md)
+> **Congrats!** You did it! You can [continue to Revision version.](revision.md)
 
