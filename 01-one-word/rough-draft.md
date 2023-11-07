@@ -10,4 +10,4 @@
 Unfortunately, I missed this step… ☹️ and began by creating a complete version of the text. 
 
 > [!WARNING]
-> **However**, don't forget to [continue](first-draft.md).
+> **However**, don't forget to [continue to First Draft](first-draft.md).
