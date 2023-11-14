@@ -16,7 +16,7 @@
 ![Black and White headshot image of me, Sara](img/Black&White-headshot-image-of-me.jpeg)
 
 I believe understanding ourselves, our identity and our purpose is the fundamental matter of life. But also one of the most challenging one.
-With the design development of any product or brand identity it is quite similar — but at the end of this 'seeking' process, we have a gut feeling that this is 'it'. 
+With the design development of any product or brand identity it is quite similar — and at the end of this 'seeking' process, we have a gut feeling that this is 'it'. 
 
 I believe that every single action, decision leads us to unpredictable way. The only way we can deal with this unpredicatabelity is to get on the flow of the life and accept and work with whatever life serves you. 
 
