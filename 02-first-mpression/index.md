@@ -15,11 +15,8 @@
 
 ![Black and White headshot image of me, Sara](img/Black&White-headshot-image-of-me.jpeg)
 
-A short description about yourself. Think — alt text description length, a max of 125 characters, short and sweet. If you go over, that’s okay — edits are free.
-
 I love to involve myself in deep and meaningful talks, as well as designing digital and physical products which carries higher purpose to the world.
 
-I value designing digital products that carries higher-meaning to our world
 
 ## Featured Projects
 
