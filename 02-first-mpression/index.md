@@ -15,8 +15,8 @@
 
 ![Black and White headshot image of me, Sara](img/Black&White-headshot-image-of-me.jpeg)
 
-— I enjoy engaging in deep and meaningful conversations, as well as designing digital and physical products that bring a higher purpose to the world. 
-I believe understanding yourself, your identity and your purpose is the fundamental matter of your life. But the most challenging one, it's the life-time process. 
+I believe understanding ourselves, our identity and our purpose is the fundamental matter of life. But also one of the most challenging one.
+With the design development of any product or brand identity it is quite similar — however, at the end of this process, we 
 
 I believe that every single action, decision leads us to unpredictable way. The only way we can deal with this unpredicatabelity is to get on the flow of the life and accept and work with whatever life serves you. 
 
