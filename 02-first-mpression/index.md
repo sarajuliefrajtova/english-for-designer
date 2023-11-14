@@ -15,7 +15,7 @@
 
 ![Black and White headshot image of me, Sara](img/Black&White-headshot-image-of-me.jpeg)
 
-I love to involve myself in deep and meaningful talks, as well as designing digital and physical products which carries higher purpose to the world.
+— I love to involve myself in deep and meaningful talks, as well as designing digital and physical products which carries higher purpose to the world.
 
 
 ## Featured Projects
