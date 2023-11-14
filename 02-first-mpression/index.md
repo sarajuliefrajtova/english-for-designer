@@ -23,7 +23,8 @@ I believe that every single action, every single decision, leads us in an unpred
 
 ## Featured Projects
 
-A short description about the work.
+Currently, I am mainly involved in a digital design (web, UX & UI design) and graphic design. 
+However, I'm open to discover other fields of design, as well as the art field — that I've come to appreciate, along with getting to know myself.
 
 ### Featured Project 1 Title
 
