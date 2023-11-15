@@ -30,8 +30,7 @@ Currently, I am mainly involved in a digital design (web, UX & UI design) and gr
 
 <!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
 
-![Showcase of webpages design for Boncle company.](img/Showcase-of-webpages-design-for-Boncle-company.png
-(File))
+![Showcase of webpages design for Boncle company.](img/Showcase-of-webpages-design-for-Boncle-company.png)
 
 - Compelete web and e-shop redesign for czech manufacturing brand Bonclé. 
 - The company needed to change the structure of its obsolete and user-unfriendly website to one that would make the shopping process more pleasant for its clients. 
