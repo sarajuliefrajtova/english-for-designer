@@ -23,8 +23,18 @@ I believe that every single action, every single decision, leads us in an unpred
 
 ## Featured Projects
 
-Currently, I am mainly involved in a digital design (web, UX & UI design) and graphic design. 
-Nowadays I've also started to get more involved in other spheres of design, as well as art and self-expression in general.
+Currently, I am mainly involved in a digital design (web, UX & UI design) and graphic design. Each project is slightly different as this is dependent on the individual needs of each client.  
+/ Nowadays, I have also started to get more involved in other spheres of design, as well as art and self-expression in general. /
+
+### Bonclé
+
+<!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
+
+![Write an alternative text description.](img/featured-project-01.png)
+
+~ Compelete web and e-shop redesign for czech manufacturing brand Bonclé. 
+~ The company needed to change the structure of its obsolete and user-unfriendly website to one that would make the shopping process more pleasant for its clients. 
+- The website and e-shop were completely redesigned - from user-flow to complex UI design. My intention was to design a website with a minimalistic and elegant visual style that would highlight the uniqueness of each leather handbag and its accessories.
 
 ### Featured Project 1 Title
 
