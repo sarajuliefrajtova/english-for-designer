@@ -33,6 +33,7 @@ Nowadays I've also started to get more involved in other spheres of design, as w
 ![Write an alternative text description.](img/featured-project-01.png)
 
 - A short description about the project — *the what*.
+~ Website redesign of Boncle, manufacturing company. Purpose was to emphasize minimalism to underline the uniqueness and elegance of leather handbags.
 - A short description about the significance of the project — *the whys*.
 - A short description about the outcome of the project — *the result or takeaway*.
 
