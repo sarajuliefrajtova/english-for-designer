@@ -42,8 +42,8 @@ Currently, I am mainly involved in a digital design (web, UX & UI design) and gr
 ![Write an alternative text description.](img/featured-project-01.png)
 
 - The communication card game called _Cognition_ was created as a project for the final work of the 2nd year of my university studies.
-- A short description about the significance of the project — *the whys*.
-- A short description about the outcome of the project — *the result or takeaway*.
+- The task was to redesign / design pre-existing any kind of game for our final work which will carry its testimonial value.
+- As a result we (my team and me) designed a psychological communication game that serves as an aid in finding words and exploring your emotions. Prior to the actual implementation phase, research was conducted, including consultation with a psychologist who has in-depth knowledge of the topic.
 
 <!-- Use the same stucture above for the rest of your featured projects. -->
 
