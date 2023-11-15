@@ -32,9 +32,9 @@ Currently, I am mainly involved in a digital design (web, UX & UI design) and gr
 
 ![Write an alternative text description.](img/featured-project-01.png)
 
-~ Compelete web and e-shop redesign for czech manufacturing brand Bonclé. 
-~ The company needed to change the structure of its obsolete and user-unfriendly website to one that would make the shopping process more pleasant for its clients. 
-~ The website and e-shop were completely redesigned - from user-flow to complex UI design. My intention was to design a website with a minimalistic and elegant visual style that would highlight the uniqueness of each leather handbag and its accessories.
+- ~ Compelete web and e-shop redesign for czech manufacturing brand Bonclé. 
+- ~ The company needed to change the structure of its obsolete and user-unfriendly website to one that would make the shopping process more pleasant for its clients. 
+- ~ The website and e-shop were completely redesigned - from user-flow to complex UI design. My intention was to design a website with a minimalistic and elegant visual style that would highlight the uniqueness of each leather handbag and its accessories.
 
 ### Featured Project 1 Title
 
