@@ -15,7 +15,7 @@
 
 ![Black and White headshot image of me, Sara](img/Black&White-headshot-image-of-me.jpeg)
 
-<code style="color : gold">need to decide whether leave both of the or just the one</code>
+#### <code style="color : gold">need to decide whether leave both of the or just the one</code>
 I believe understanding ourselves, our identity and our purpose is the fundamental matter of life. But also one of the most challenging one.
 With the design development of any product or brand identity it is quite similar — and when we reach the end of this 'seeking' process, we have a gut feeling that this is 'it'. 
 
