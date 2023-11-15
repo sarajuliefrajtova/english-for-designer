@@ -42,7 +42,6 @@ Currently, I am mainly involved in a digital design (web, UX & UI design) and gr
 ![Write an alternative text description.](img/featured-project-01.png)
 
 - The communication card game called _Cognition_ was created as a project for the final work of the 2nd year of my university studies.
-~ Website redesign of Boncle, manufacturing company. Purpose was to emphasize minimalism to underline the uniqueness and elegance of leather handbags.
 - A short description about the significance of the project — *the whys*.
 - A short description about the outcome of the project — *the result or takeaway*.
 
