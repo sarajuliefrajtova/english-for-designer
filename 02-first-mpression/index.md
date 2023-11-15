@@ -24,7 +24,7 @@ I believe that every single action, every single decision, leads us in an unpred
 ## Featured Projects
 
 Currently, I am mainly involved in a digital design (web, UX & UI design) and graphic design. 
-Nowadays I've also started to get more involved in other spheres of design, as well as art and self-expression in general.
+Nowadays I've also started to get more involved in other spheres of design, as well as art and self-expression in general
 
 ### Featured Project 1 Title
 
