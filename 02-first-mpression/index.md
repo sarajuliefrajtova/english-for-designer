@@ -29,21 +29,19 @@ Currently, I am mainly involved in a digital design (web, UX & UI design) and gr
 
 ### Bonclé
 
-<!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
-
 ![Showcase of webpages design for Boncle company.](img/Showcase-of-webpages-design-for-Boncle-company.png)
 
 - Compelete web and e-shop redesign for czech manufacturing brand Bonclé. 
 - The company needed to change the structure of its obsolete and user-unfriendly website to one that would make the shopping process more pleasant for its clients. 
 - The website and e-shop were completely redesigned — from the user-flow to the complex UI design. My intention was to design a website with a minimalistic and elegant visual style that would highlight the uniqueness of each leather handbag and its accessories. I had to deal with a number of fairly tough moments during this project, although as always it was so enriching all round.
-</br>
-### Featured Project 1 Title
+
+### Cognition (Poznanie)
 
 <!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
 
 ![Write an alternative text description.](img/featured-project-01.png)
 
-- A short description about the project — *the what*.
+- The communication card game called Cognition was created as a project for the final work of the 2nd year of my university studies.
 ~ Website redesign of Boncle, manufacturing company. Purpose was to emphasize minimalism to underline the uniqueness and elegance of leather handbags.
 - A short description about the significance of the project — *the whys*.
 - A short description about the outcome of the project — *the result or takeaway*.
