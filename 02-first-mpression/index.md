@@ -15,7 +15,6 @@
 
 ![Black and White headshot image of me, Sara](img/Black&White-headshot-image-of-me.jpeg)
 
-#### <mark>**need to decide whether leave both of them or not**</mark>
 I believe understanding ourselves, our identity and our purpose is the fundamental matter of life. But also one of the most challenging one.
 With the design development of any product or brand identity it is quite similar — and when we reach the end of this 'seeking' process, we have a gut feeling that this is 'it'. 
 
