@@ -9,7 +9,7 @@
 - [Featured Projects](#featured-projects)
     - [Bonclé](#bonclé)
     - [Cognition (Poznanie)](#Cognition-poznanie)
-    - [Rheumatism on chill (Revma v klidu)](Rheumatism-on-chill-Revma-v-klidu)
+    - [Rheumatism on chill (Revma v klidu)](Rheumatism-on-chill-revma-v-klidu)
 - [Notes](#notes)
 
 ## About
