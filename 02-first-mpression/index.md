@@ -60,7 +60,7 @@ Currently, I am mainly involved in a digital design (web, UX & UI design) and gr
 
 ### Czech School Without Borders — London
 
-![Showcase of selected screens of the application.](img/)
+![Showcase of selected screens of the application.](img/Showcase-of-visual-of-Czech-School-Without-Borders-In-London)
 
 - 
 
