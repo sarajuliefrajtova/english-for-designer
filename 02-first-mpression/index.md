@@ -51,7 +51,7 @@ Currently, I am mainly involved in a digital design (web, UX & UI design) and gr
 
 - Digital motivational and educational course for the people who are being treated for rheumatic diseases. The project is led by the non-profit organization [_Revma Liga ČR_](https://www.revmaliga.cz/) together with the volunteer organization [_Česko.Digital_](https://cesko.digital/?gclid=Cj0KCQiAmNeqBhD4ARIsADsYfTez5yT8aah8tkRU4_I1avEtFvOxrTf6ypQ401lAcjK25XlKTM48HhEaAqdtEALw_wcB) (_Czech.Digital_), which brings together volunteers, mainly from the IT field.
 - The project aims to spread the awareness of the rheumatic diseases as well as changing the form of treatment for both rheumatics and the ageing population in general. It will help to initiate motivation to exercise at home even in people who do not have the opportunity to exercise with professional assistance for a long time.
-- Thanks to this opportunity, I have gained a lot of new expriences — from user research (in-depth user interviews & etc.) to user testing, as well as working in an interprofessional team. Besides that, it has taught the importance of expressing my opinion about the addressed topic.
+- I've been contributing as junior UX designer, whereby I was leaded by senior UX designer. Thanks to this opportunity, I have gained a lot of new expriences — from user research (in-depth user interviews & etc.) to user testing, as well as working in an interprofessional team. Besides that, it has taught the importance of expressing my opinion about the addressed topic.
 
 ## Notes
 
