@@ -1,4 +1,4 @@
-# First Impression 🪼
+# First Impression 🌗
 
 <!-- This is a comment, only visible to the author: Add a link to your presentation. -->
 <!-- Presentations do not need to be a PDF, you may link elsewhere, such as Figma, YouTube, etc. -->
