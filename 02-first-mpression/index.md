@@ -53,6 +53,12 @@ Currently, I am mainly involved in a digital design (web, UX & UI design) and gr
 - The project aims to spread the awareness of the rheumatic diseases as well as changing the form of treatment for both rheumatics and the ageing population in general. It will help to initiate motivation to exercise at home even in people who do not have the opportunity to exercise with professional assistance for a long time.
 - I've been contributing as junior UX designer, whereby I was leaded by senior UX designer. Thanks to this opportunity, I have gained a lot of new expriences — from user research (in-depth user interviews & etc.) to user testing, as well as working in an interprofessional team. Besides that, it has taught the importance of expressing my opinion about the addressed topic.
 
+### Czech School Without Borders — London
+
+![Showcase of selected screens of the application.](img/)
+
+- 
+
 ## Notes
 
 Numbered comments about each featured project as presenter notes or speaking points.
