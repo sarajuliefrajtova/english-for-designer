@@ -49,8 +49,8 @@ Currently, I am mainly involved in a digital design (web, UX & UI design) and gr
 
 ![The card game Cognition laid out on the table.](img/The-card-game-Cognition-laid-out-on-the-table.jpg)
 
-- Digital motivational and educational course for the people who are being treated for rheumatic diseases. The project is led by the non-profit organization [_Revma Liga ČR_](https://www.revmaliga.cz/) together with the volunteer organization [_Česko.Digital_](https://cesko.digital/?gclid=Cj0KCQiAmNeqBhD4ARIsADsYfTez5yT8aah8tkRU4_I1avEtFvOxrTf6ypQ401lAcjK25XlKTM48HhEaAqdtEALw_wcB) (_Czech.Digital_), which brings together volunteers, mainly from the IT field, who work on digital projects for non-profit organizations, state administration or local government.
-— The project aims to spread the awareness of the rheumatic diseases
+- Digital motivational and educational course for the people who are being treated for rheumatic diseases. The project is led by the non-profit organization [_Revma Liga ČR_](https://www.revmaliga.cz/) together with the volunteer organization [_Česko.Digital_](https://cesko.digital/?gclid=Cj0KCQiAmNeqBhD4ARIsADsYfTez5yT8aah8tkRU4_I1avEtFvOxrTf6ypQ401lAcjK25XlKTM48HhEaAqdtEALw_wcB) (_Czech.Digital_), which brings together volunteers, mainly from the IT field.
+- The project aims to spread the awareness of the rheumatic diseases
 
 ## Notes
 
