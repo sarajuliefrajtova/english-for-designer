@@ -41,7 +41,7 @@ Currently, I am mainly involved in a digital design (web, UX & UI design) and gr
 
 ![Write an alternative text description.](img/featured-project-01.png)
 
-- The communication card game called _Cognition_ was created as a project for the final work of the 2nd year of my university studies.
+- The communication card game _Cognition_ for the final work of the 2nd year of university studies.
 - The task was to redesign / design pre-existing any kind of game for our final work which will carry its testimonial value.
 - As a result we (my team and me) designed a psychological communication game that serves as an aid in finding words and exploring your emotions. Prior to the actual implementation phase, we have conducted a search, including consultation with a psychologist. Within the visiual design we used color gradients and element in the form of a wave. Both of these distinctive aspects carries its meaning:
     1. Color gradient is a symbol of emotions that blend together in different ways and are often difficult to define. However, with the help of the game we can better define them and work with them.
