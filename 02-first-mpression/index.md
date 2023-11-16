@@ -37,17 +37,20 @@ Currently, I am mainly involved in a digital design (web, UX & UI design) and gr
 
 ### Cognition (Poznanie)
 
-<!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
+![The card game Cognition laid out on the table.](img/The-card-game-Cognition-laid-out-on-the-table.jpg)
 
-![Write an alternative text description.](img/The-card-game-Cognition-laid-out-on-the-table.jpg)
-
-- The communication card game _Cognition_ for the final work of the 2nd year of university studies.
+- Communication card game _Cognition_ for the final work of the 2nd year of university studies.
 - The task was to design / redesign pre-existing any kind of game which will carry its testimonial value.
 - As a result we (my team and I) designed a psychological communication game that serves as an aid in finding words and exploring humans emotions. Prior to the actual implementation phase, we have conducted a search, including consultation with a psychologist. Within the visiual design we used color gradients, and element in the form of a wave. Both of these distinctive aspects carries its meaning:
     1. Color gradient is a symbol of emotions that blend together in different ways and are often difficult to define. However, with the help of the game we can better define them and work with them.
     2. The wave is a symbol of emotions and their development — the game should help people to alleviate highest and the most intense point of emotion.
 
-<!-- Use the same stucture above for the rest of your featured projects. -->
+### Rheumatism on chill (Revma v klidu)
+
+![The card game Cognition laid out on the table.](img/The-card-game-Cognition-laid-out-on-the-table.jpg)
+
+- Digital motivational and educational course for the people who are being treated for rheumatic diseases. The project is led by the non-profit organization Revma Liga ČR together with the volunteer organization _Česko.Digital_ (_Czech.Digital_), which brings together volunteers, mainly from the IT field, who work on digital projects for non-profit organizations, state administration or local government.
+— The project aims to spread the awareness of the rheumatic diseases
 
 ## Notes
 
