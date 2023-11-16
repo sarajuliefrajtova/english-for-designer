@@ -8,8 +8,9 @@
 - [About](#about)
 - [Featured Projects](#featured-projects)
     - [Bonclé](#bonclé)
-    - [Cognition (Poznanie)](#Cognition-poznanie)
+    - [Cognition (Poznanie)](#cognition-poznanie)
     - [Rheumatism on chill (Revma v klidu)](#rheumatism-on-chill-revma-v-klidu)
+    - [Czech School Without Borders — London](#czech-school-without-borders--london)
 - [Notes](#notes)
 
 ## About
