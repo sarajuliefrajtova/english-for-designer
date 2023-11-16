@@ -8,7 +8,7 @@
 - [About](#about)
 - [Featured Projects](#featured-projects)
     - [Bonclé](#bonclé)
-    - [Cognition (Poznanie)](#Cognition-(poznanie))
+    - [Cognition (Poznanie)](#Cognition-poznanie)
 - [Notes](#notes)
 
 ## About
