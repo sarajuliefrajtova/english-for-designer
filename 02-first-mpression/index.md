@@ -39,7 +39,7 @@ Currently, I am mainly involved in a digital design (web, UX & UI design) and gr
 
 <!-- Use a static poster image or animated GIF, but no video files. Again, keep the image width/height manageable, around 1280x x 720px (16:9 aspect ratio), or a max-width of 1280px. -->
 
-![Write an alternative text description.](img/featured-project-01.png)
+![Write an alternative text description.](img/The-game-Cognition-laid-out-on-the-table.jpg)
 
 - The communication card game _Cognition_ for the final work of the 2nd year of university studies.
 - The task was to design / redesign pre-existing any kind of game which will carry its testimonial value.
