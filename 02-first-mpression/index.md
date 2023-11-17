@@ -62,7 +62,8 @@ Currently, I am mainly involved in a digital design (web, UX & UI design) and gr
 
 ![Showcase of selected screens of the application.](img/Showcase-of-visual-of-Czech-School-Without-Borders-In-London.png)
 
-- 
+- Redesign of visual identity for Czech School Without Borders in London
+- The school needed to establish a complete visual identity of its own. One of the essential requirement was to categorize the school's activities through the on-line and off-line communication in a way that would be understandable to users (especially parents).
 
 ## Notes
 
