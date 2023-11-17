@@ -64,6 +64,7 @@ Currently, I am mainly involved in a digital design (web, UX & UI design) and gr
 
 - Redesign of visual identity for Czech School Without Borders in London
 - The school needed to establish a complete visual identity of its own. One of the essential requirement was to categorize the school's activities through the on-line and off-line communication in a way that would be understandable to users (especially parents).
+- With my classmate, we came up with a concept for their visual identity and solved the problem of categorizing activities. To categorize the activities, we defined a system of four pillars, where each pillar is assigned one symbol. The school was impressed by our concept and decided to continue working with us.
 
 ## Notes
 
