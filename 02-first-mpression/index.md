@@ -24,7 +24,7 @@
 I believe understanding ourselves, our identity and our purpose is the fundamental matter of life. But also one of the most challenging one.
 With the design development of any product or brand identity it is quite similar — and when we reach the end of this 'seeking' process, we have a gut feeling that this is 'it'. 
 
-I believe that every single action, every single decision, leads us in an unpredictable journey. The only way to deal with this unpredictability is to let yourself go with the flow of life and accept and operate with what life offers you. 
+I have a faith that every single action, every single decision, leads us in an unpredictable journey. The only way to deal with this unpredictability is to let yourself go with the flow of life and accept and operate with what life offers you. 
 
 
 ## Featured Projects
