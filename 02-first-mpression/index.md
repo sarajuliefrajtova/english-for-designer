@@ -4,7 +4,7 @@
 <!-- Presentations do not need to be a PDF, you may link elsewhere, such as Figma, YouTube, etc. -->
 <!-- Consider adding navigation to each section (About, Featured Projects, Notes, etc.) -->
 
-- [View Presentation](img/surname-draft-first-impression-2023.pdf)
+- [View Presentation](https://www.figma.com/proto/go23211pKO2ZixcvrFVZSI/ANJ-%E2%80%94-First-impression-presentaion?page-id=0%3A1&type=design&node-id=88-372&viewport=145%2C-495%2C0.15&t=ZV8UeuEAakILN3U9-1&scaling=scale-down-width&mode=design)
 - [About](#about)
 - [Featured Projects](#featured-projects)
     - [Bonclé](#bonclé)
