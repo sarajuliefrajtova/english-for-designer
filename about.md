@@ -2,7 +2,7 @@
 
 I have a faith that every single action, every single decision, leads us in an unpredictable journey. The only way to deal with this unpredictability is to let yourself go with the flow of life and accept and operate with what life offers you.
 
-*
+\\
 ### Philosphy, Art, Spirit 
 
 Philosophy has been a big and essential part of me since I was a kid. At that time, however, I did not read any intellectual literature, I have only constantly thought deeply about the world, about the purpose of our existence and observed everything around me. 
