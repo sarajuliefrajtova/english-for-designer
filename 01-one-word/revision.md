@@ -50,7 +50,7 @@ So, there’s to "OK" – the two-letter word which can both confuse and frustra
 ### The Takeaway
 In a nutshell, this essay highlights the unexpected depth and complexity of the word "OK" in our digital communication era. It's a reflection of how our conversations have evolved in a fast-paced world, capable of both captivating and frustrating us. It serves as a reminder that even in brief exchanges, the choice of words can profoundly affect our communication.
 </br>
-## Edited version of the essay
+## Version with feedback
 ### / During this step I used [Hemnigway editor](https://hemingwayapp.com/) 🛶 to edit my text. /
 
 Ah, "OK". The two-letter responses — for those of ones who haven’t ever heard about this stunning word yet, poor you. Poor you, if you love to stand at the edge of blandness and confusion at the same time. 
