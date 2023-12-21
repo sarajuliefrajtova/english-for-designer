@@ -24,3 +24,5 @@ Each project is slightly different as this is dependent on the individual needs 
 :star: Digital motivational and educational course for the people who are being treated for rheumatic diseases. Project led by the non-profit organization Revma Liga ČR together with the volunteer organization Česko.Digital (Czech.Digital)
 <br>
 #UXDesign #UIDesign
+
+## Website & e-shop redesign for Boncle
