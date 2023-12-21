@@ -69,3 +69,29 @@ In the first level (8+), the game begins with the child choosing a card with an 
 1. Devote yourself to what fulfills you, what is meaningful to you. Only at this point you will be in an aligment with what you are creating.
 2. Genuine friends will always tell you the truth when they feel you are unconsciously wounding yourself.
 3. Our spirit is an essential part of our health routine.
+
+## Revma v klidu (Rheumatism on chill) —
+UX DESIGN | YEAR 2023 | TEAM-COMMUNITY WORK (ČESKO.DIGITAL)  
+
+Digital motivational and educational course for the people who are being treated for rheumatic diseases. The project is led by the non-profit organization Revma Liga ČR together with the volunteer organization Česko.Digital (Czech.Digital)
+
+![Showcase-of-webpages-design-for-Boncle-company](../img/Showcase-of-webpages-design-for-Boncle-company.png)
+
+### Community with the aim to help
+My compulsory internship led me to work on this project, when I was looking for a junior UX or UI designer position. Thanks to my teacher I discovered the volunteer community Česko.Digital, which brings together volunteers mainly from the IT field. I was offered a volunteer position as a junior UX designer on the Revma v Klidu project.
+</br>
+### Unique aid in the form of an app
+The project aims to spread the awareness of the rheumatic diseases as well as changing the form of treatment for both rheumatics and the ageing population in general. It will help to initiate motivation to exercise at home even in people who do not have the opportunity to exercise with professional assistance for a long time.
+</br>
+### Many challenges, many opportunities
+I've been contributing as junior UX designer, whereby I was leaded by senior UX designer. Thanks to this opportunity, I have gained a lot of new expriences — from user research (in-depth user interviews & etc.) to user testing, as well as working in an interprofessional team. Besides that, it has taught the importance of expressing my opinion about the addressed topic.
+</br>
+### From silence to self-expression
+At the very beginning of the whole project I was in a situation where I was unable to say a word, I was so intimidated, punishing myself, constantly underestimating my human value. Whenever I had to express my opinion on a topic, I felt that I was not competent enough to present my point of view.
+
+However, through the process of life, I've learned (at least halfway through) that I shouldn't be afraid to voice my opinion.
+</br>
+### What has it taught me?
+1. Devote yourself to what fulfills you, what is meaningful to you. Only at this point you will be in an aligment with what you are creating.
+2. Genuine friends will always tell you the truth when they feel you are unconsciously wounding yourself.
+3. Our spirit is an essential part of our health routine.
