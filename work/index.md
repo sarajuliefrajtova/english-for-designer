@@ -14,15 +14,15 @@ Each project is slightly different as this is dependent on the individual needs 
 
 #### 1. Website & e-shop redesign for Bonclé
 :star: Compelete website and e-shop redesign for czech manufacturing brand Bonclé. Design that emphasizes simplicity and grandeur as a respect for the products.
-<br>
+</br>
 #UXDesign #UIDesign #Webdesign
 #### 2. Card Game Poznanie (Cognition)
 :star: Two-leveled communication card game offering and helping its players to discover themselves, their emotions and learn to work with them in a positive manner..
-<br>
+</br>
 #GrapicDesign #ConceptualDesign
 #### 3. Digital course Revma v Klidu (Rheumatism on chill)
 :star: Digital motivational and educational course for the people who are being treated for rheumatic diseases. Project led by the non-profit organization Revma Liga ČR together with the volunteer organization Česko.Digital (Czech.Digital)
-<br>
+</br>
 #UXDesign #UIDesign
 <br></br>
 ## Website & e-shop redesign for Bonclé —
@@ -34,6 +34,8 @@ Compelete website and e-shop redesign for czech manufacturing brand Bonclé. As 
 
 ### Request for a change
 The company needed to change the structure of its obsolete and user-unfriendly website to one that would make the shopping process more pleasant for its clients.
-<br>
+</br>
 ### Sublimity, Simplicity & Respect
 I designed all the pages with respect to the products — in the spirit of simplicity, nobility, but also luxury. My intetion was to let the products themselves stand out.
+</br>
+### What has it taught me?
