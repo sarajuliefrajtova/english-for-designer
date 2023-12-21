@@ -3,7 +3,7 @@
 - [First Draft](./first-draft.md)
 - [Revision](./revision.md)
 - [Edit](./edit-with-feedback.md)
-- [Final](final.md)
+- [Final](index.md)
 
 
 ## Final version
