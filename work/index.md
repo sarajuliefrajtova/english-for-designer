@@ -54,7 +54,7 @@ CONCEPTUAL DESIGN, GRAPHIC DESIGN | YEAR 2023 | TEAM WORK
 
 Two-leveled communication card game offering and helping its players to discover themselves, their emotions and learn to work with them in a positive manner.
 
-![Showcase-of-webpages-design-for-Boncle-company](../img/Showcase-of-webpages-design-for-Boncle-company.png)
+![The-card-game-Cognition-laid-out-on-the-table](../img/The-card-game-Cognition-laid-out-on-the-table.png)
 
 ### More than a game
 ‘Cognition’ is not just a game, but can also serve as a tool for psychotherapists in their offices. It includes two levels — the first level is designed especially for children 8+, the second is for 15+ (i.e. also for adults).
