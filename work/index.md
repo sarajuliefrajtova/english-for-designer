@@ -12,7 +12,7 @@
 Currently, I am mainly involved in a digital design (web, UX & UI design) and graphic design.</br>
 Each project is slightly different as this is dependent on the individual needs of each client.
 
-#### 1. Website & e-shop redesign for Boncle
+#### 1. Website & e-shop redesign for Bonclé
 :star: Compelete website and e-shop redesign for czech manufacturing brand Bonclé. Design that emphasizes simplicity and grandeur as a respect for the products.
 <br>
 #UXDesign #UIDesign #Webdesign
@@ -25,4 +25,4 @@ Each project is slightly different as this is dependent on the individual needs 
 <br>
 #UXDesign #UIDesign
 
-## Website & e-shop redesign for Boncle
+## Website & e-shop redesign for Bonclé
