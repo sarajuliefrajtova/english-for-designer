@@ -8,6 +8,8 @@
 
 ## Final version
 
+by Sára Julie Frajtová, 22nd of November 2023
+
 Ah, "OK". The two-letter responses — for those of ones who haven’t ever heard about this stunning word yet, poor you. Poor you, if you love to stand at the edge of blandness and confusion at the same time. 
 
 I have no clue where it all started, but perhaps it emerged in our fast-paced world, where many of us aim to minimise our word count when replying. As a result, we've decided to truncate phrases like "I'm fine" or "Well" to a simple "O K."
