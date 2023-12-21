@@ -70,7 +70,7 @@ In the first level (8+), the game begins with the child choosing a card with an 
 2. Genuine friends will always tell you the truth when they feel you are unconsciously wounding yourself.
 3. Our spirit is an essential part of our health routine.
 
-## Digital course Revma v klidu (Rheumatism on chill) —
+## Digital course Revma v klidu (Rheumatism on chill)
 UX DESIGN | YEAR 2023 | TEAM-COMMUNITY WORK (ČESKO.DIGITAL)  
 
 Digital motivational and educational course for the people who are being treated for rheumatic diseases. The project is led by the non-profit organization Revma Liga ČR together with the volunteer organization Česko.Digital (Czech.Digital)
