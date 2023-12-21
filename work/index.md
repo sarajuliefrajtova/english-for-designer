@@ -75,7 +75,7 @@ UX DESIGN | YEAR 2023 | TEAM-COMMUNITY WORK (ČESKO.DIGITAL)
 
 Digital motivational and educational course for the people who are being treated for rheumatic diseases. The project is led by the non-profit organization Revma Liga ČR together with the volunteer organization Česko.Digital (Czech.Digital)
 
-![Showcase-of-webpages-design-for-Boncle-company](../img/Showcase-of-webpages-design-for-Boncle-company.png)
+![Showcase-of-webpages-design-for-Boncle-company](../img/Showcase-of-selected-screens-of-the-application.png)
 
 ### Community with the aim to help
 My compulsory internship led me to work on this project, when I was looking for a junior UX or UI designer position. Thanks to my teacher I discovered the volunteer community Česko.Digital, which brings together volunteers mainly from the IT field. I was offered a volunteer position as a junior UX designer on the Revma v Klidu project.
