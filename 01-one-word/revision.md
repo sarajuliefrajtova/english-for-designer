@@ -1,9 +1,10 @@
 # One Word — "OK" 🐳
+
 - [Rough Draft](rough-draft.md)
 - [First Draft](first-draft.md)
 - [Revision](revision.md)
-- [Edit With Feedback](edit-with-feedback.md)
-- [Final](index.md)
+- [Feedback](feedback.md)
+- [Final](final.md)
 
 
 ## Revision
