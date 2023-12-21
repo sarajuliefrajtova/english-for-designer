@@ -10,6 +10,3 @@ Philosophy has been a big and essential part of me since I was a kid. At that ti
 In the course of my life I gradually began to find the way to my true knowledge. On this journey, I have come to understand that art and spirituality are an essential part of it.  This is actually the very first time in my life that I am speaking about this publicly.
 
 Now, I am applying these insights to my design projects. They serve as a source for me to understand or implement concepts, create beauty and nobility, and infuse a unique spirit into the brand or product.
-
-
-Fields I'm working at —
