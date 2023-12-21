@@ -14,7 +14,7 @@ During this step, I was thinking about editing my text. In order that, I decided
 4. [What’s your conclusion?](#the-conclusion)
 5. [What’s your takeway?](#the-takeaway)
 
-[Essay version with feedback](#essay-version-with-feedback)
+🐳[Essay version with feedback](#essay-version-with-feedback)
 
 ### A Hook
 "OK"—a conversation killer or traditional digital-age reply?
