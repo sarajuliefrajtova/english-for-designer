@@ -8,7 +8,7 @@
 
 ## Final version
 
-by Sára Julie Frajtová, 22nd of November 2023
+by Sára Julie Frajtová | 22nd of November 2023
 
 ![Satiric Illustration About Heartfelt Robotic Conversations When Using 'OK' word](Satiric_Illustration_About_Heartfelt_Robotic_Conversations_About_OK_Word.png)
 
