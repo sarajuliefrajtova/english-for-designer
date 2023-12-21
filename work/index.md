@@ -34,3 +34,6 @@ Compelete website and e-shop redesign for czech manufacturing brand Bonclé. As 
 
 ### Request for a change
 The company needed to change the structure of its obsolete and user-unfriendly website to one that would make the shopping process more pleasant for its clients.
+<br>
+### Sublimity, Simplicity & Respect
+I designed all the pages with respect to the products — in the spirit of simplicity, nobility, but also luxury. My intetion was to let the products themselves stand out.
