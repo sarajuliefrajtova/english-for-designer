@@ -39,3 +39,9 @@ The company needed to change the structure of its obsolete and user-unfriendly w
 I designed all the pages with respect to the products — in the spirit of simplicity, nobility, but also luxury. My intetion was to let the products themselves stand out.
 </br>
 ### What has it taught me?
+1. Do not underestimate the valuation of the work, devote a whole day to it.
+2. Determine in advance with the customer what your job really is, you can't do all.
+3. If something is beyond the scope of your work, get paid for it.
+4. Conduct honest communication with the customer.
+5. Get some rest. Without rest, your work won't be worthwhile.
+6. There is always room for improvement, but at some point we have to say "enough is enough".
