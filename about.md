@@ -14,6 +14,6 @@ In the course of my life I gradually began to find the way to my true knowledge.
 Now, I am applying these insights to my design projects. They serve as a source for me to understand or implement concepts, create beauty and nobility, and infuse a unique spirit into the brand or product.
 </br>
 
-## Get in touch with me —
+## :nazar_amulet: Get in touch with me —
 Would you like to create something together? Drop me e-mail on: 
-[INFO@SARAFRAJTOVA.CZ](mailto:info@sarafrajtova.cz) :nazar_amulet:	
+[INFO@SARAFRAJTOVA.CZ](mailto:info@sarafrajtova.cz)	
