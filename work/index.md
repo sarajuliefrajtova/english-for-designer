@@ -13,7 +13,7 @@ Currently, I am mainly involved in a digital design (web, UX & UI design) and gr
 
 #### 1. Website & e-shop redesign for Boncle
 :full_moon_with_face:	Compelete website and e-shop redesign for czech manufacturing brand Bonclé.  Design that emphasizes simplicity and grandeur as a respect for the products.
-<br></br>
+<br>
 #UXDesign #UIDesign #Webdesign
 #### 2. Card Game Poznanie (Cognition)
 :full_moon_with_face:	Two-leveled communication card game offering and helping its players to discover themselves, their emotions and learn to work with them in a positive manner..
