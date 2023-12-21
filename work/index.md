@@ -17,4 +17,6 @@ Currently, I am mainly involved in a digital design (web, UX & UI design) and gr
 #UXDesign #UIDesign #Webdesign
 #### 2. Card Game Poznanie (Cognition)
 :star: Two-leveled communication card game offering and helping its players to discover themselves, their emotions and learn to work with them in a positive manner..
+<br>
+#GrapicDesign #ConceptualDesign
 #### 3. Digital course Revma v Klidu (Rheumatism on chill)
