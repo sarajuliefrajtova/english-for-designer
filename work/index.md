@@ -7,7 +7,7 @@
 1. UX, UI & WEB DESIGN
 2. GRAPHIC DESIGN
 3. FRONT-END DEVELOPMENT
-   
+</br>
 ## Feautered projects —
 Currently, I am mainly involved in a digital design (web, UX & UI design) and graphic design.</br>
 Each project is slightly different as this is dependent on the individual needs of each client.
