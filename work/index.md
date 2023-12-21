@@ -20,6 +20,6 @@ Currently, I am mainly involved in a digital design (web, UX & UI design) and gr
 <br>
 #GrapicDesign #ConceptualDesign
 #### 3. Digital course Revma v Klidu (Rheumatism on chill)
-Digital motivational and educational course for the people who are being treated for rheumatic diseases. Project led by the non-profit organization Revma Liga ČR together with the volunteer organization Česko.Digital (Czech.Digital)
+:star: Digital motivational and educational course for the people who are being treated for rheumatic diseases. Project led by the non-profit organization Revma Liga ČR together with the volunteer organization Česko.Digital (Czech.Digital)
 <br>
 #UXDesign #UIDesign
