@@ -33,3 +33,4 @@ Compelete website and e-shop redesign for czech manufacturing brand Bonclé. As 
 ![Showcase-of-webpages-design-for-Boncle-company](../img/Showcase-of-webpages-design-for-Boncle-company.png)
 
 ### Request for a change
+The company needed to change the structure of its obsolete and user-unfriendly website to one that would make the shopping process more pleasant for its clients.
