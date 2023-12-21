@@ -1,16 +1,4 @@
-# One Word — "OK" 🐳
-
-By [Sára Julie Frajtová](https://www.instagram.com/sarajuliefrajtova/)
-
-28.10.2023
-
-## Contents
-- [Rough Draft](rough-draft.md)
-- [First Draft](first-draft.md)
-- [Revision](revision.md)
-- [Edit](edit.md)
-- [Final](final.md)
-
+# One Word — "OK" 
 
 ## First Draft
 ### My first kind of final version of the text
