@@ -11,5 +11,6 @@
 ### Feautered projects
 Currently, I am mainly involved in a digital design (web, UX & UI design) and graphic design.  Each project is slightly different as this is dependent on the individual needs of each client.
 
-**1. Website & e-shop redesign for Boncle**
-**2. Website & e-shop redesign for Boncle**
+1. Website & e-shop redesign for Boncle
+2. Card Game Poznanie (Cognition)
+3. Digital course Revma v Klidu (Rheumatism on chill)
