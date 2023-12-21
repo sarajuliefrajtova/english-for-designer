@@ -20,7 +20,7 @@ Each project is slightly different as this is dependent on the individual needs 
 :star: Two-leveled communication card game offering and helping its players to discover themselves, their emotions and learn to work with them in a positive manner..
 </br>
 #GrapicDesign #ConceptualDesign
-#### [3. Digital course Revma v Klidu (Rheumatism on chill)](#digital-course-revma-v-klidu-rheumatism-on-chill)
+#### [3. Digital course Revma v Klidu (Rheumatism on chill)](#digital-course-revma-v-klidu-Rheumatism-on-chill)
 :star: Digital motivational and educational course for the people who are being treated for rheumatic diseases. Project led by the non-profit organization Revma Liga ČR together with the volunteer organization Česko.Digital (Czech.Digital)
 </br>
 #UXDesign #UIDesign
