@@ -63,7 +63,7 @@ At first, I tried to decode the hidden meaning behind this seemingly simple word
 
 I've come to one realisation. In a similar way as our parents are discovering beauty of our traditional social media platforms, such as Facebook, YouTube or even Instagram, they’ve also discovered charm of some words that our generation consider as an anachronism. 
 
-Yes, I'm referring to the word "OK". My parents love to use this kind of biped word. My mum has even her own mesmerising combination: "OK" plus "thumbs up" emoji. I understand, they just try to be modern and kind as well. But let's be honest, it's the ultimate conversation killer, a linguistic underachiever. A word that makes you question whether you ever asked for a reply in the first place.
+Yes, I'm referring to the word "OK". My parents love to use this kind of biped word. My mum has even her own mesmerising combination: "OK" plus "thumbs up" emoji. I understand, they just try to be modern and kind as well. But let's be honest, it's the ultimate conversation killer, a linguistic underachiever <del>(= someone who doesn’t perform as well/work as hard as he/she can)</del>. A word that makes you question whether you ever asked for a reply in the first place.
 
 So, there’s to "OK" – the two-letter word which can both confuse and frustrate us, all while making us feel like we didn’t say anything at all. Nonetheless, it’s "OK" to dislike it, right?
 
