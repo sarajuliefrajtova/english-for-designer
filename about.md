@@ -15,5 +15,5 @@ Now, I am applying these insights to my design projects. They serve as a source 
 </br>
 
 ## Get in touch with me —
-— Would you like to create something together? Drop me e-mail on: 
-[INFO@SARAFRAJTOVA.CZ](mailto:info@sarafrajtova.cz)
+Would you like to create something together? Drop me e-mail on: 
+[INFO@SARAFRAJTOVA.CZ](mailto:info@sarafrajtova.cz) :nazar_amulet:	
