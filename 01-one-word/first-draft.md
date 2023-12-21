@@ -4,7 +4,7 @@
 - [First Draft](first-draft.md)
 - [Revision](revision.md)
 - [Feedback](feedback.md)
-- [Final](final.md)
+- [Final](index.md)
 
 ## First Draft
 ### My first kind of final version of the text
