@@ -13,7 +13,7 @@ Currently, I am mainly involved in a digital design (web, UX & UI design) and gr
 Each project is slightly different as this is dependent on the individual needs of each client.
 
 #### 1. Website & e-shop redesign for Boncle
-:star: Compelete website and e-shop redesign for czech manufacturing brand Bonclé.  Design that emphasizes simplicity and grandeur as a respect for the products.
+:star: Compelete website and e-shop redesign for czech manufacturing brand Bonclé.</br>brDesign that emphasizes simplicity and grandeur as a respect for the products.
 <br>
 #UXDesign #UIDesign #Webdesign
 #### 2. Card Game Poznanie (Cognition)
