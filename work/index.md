@@ -48,7 +48,7 @@ The project brought me many new learning opportunities that I had never seen bef
 4. Conduct honest communication with the customer.
 5. Get some rest. Without rest, your work won't be worthwhile.
 6. There is always room for improvement, but at some point we have to say "enough is enough".
-
+</br>
 ## Card game Ponznanie (Cognition) —
 CONCEPTUAL DESIGN, GRAPHIC DESIGN | YEAR 2023 | TEAM WORK 
 
