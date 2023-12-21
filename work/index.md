@@ -1,6 +1,6 @@
 [Home](index.md) [About Me](./about.md) [Work](./work/index.md) [Writing](./writing/index.md)
 
-# Work
+# My Work
 
 ## Fields I'm working at —
 
