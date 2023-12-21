@@ -25,7 +25,7 @@ Each project is slightly different as this is dependent on the individual needs 
 </br>
 #UXDesign #UIDesign
 </br>
-## Website and eshop redesign for Bonclé
+## Website and e-shop redesign for Bonclé
 UX & UI DESIGN | YEAR 2021/22
 
 Compelete website and e-shop redesign for czech manufacturing brand Bonclé. As my very first web design project.
