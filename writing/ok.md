@@ -1,3 +1,5 @@
+[Home](index.md) [About Me](../about.md) [Work](../work/index.md) [Writing](../writing/index.md)
+
 # One Word — “OK” 🐳
 
 by Sára Julie Frajtová | 22nd of November 2023
