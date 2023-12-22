@@ -59,7 +59,7 @@ In a nutshell, this essay highlights the unexpected depth and complexity of the 
 
 I have no clue where it all started, but perhaps it emerged in our fast-paced world, where many of us aim to minimise our word count when replying. As a result, we've decided to truncate phrases like "I'm fine" or "Well" to a simple "O K."
 
-<del>Picture this:</del> you pour your heart out to someone, spilling your deepest feelings and thoughts onto the digital canvas. You hit send, eagerly awaiting a meaningful response. You see <del>3 waving dots </del>three bouncing dots (•••) <ins>indicating that the one on the other side is writing <del>his</del> <ins>their</ins> report. After five minutes of anticipation <del>.
+<del>Picture this:</del> you pour your heart out to someone, spilling your deepest feelings and thoughts onto the digital canvas. You hit send, eagerly awaiting a meaningful response. You see <del>3 waving dots </del><ins>three bouncing dots (•••) </ins>indicating that the one on the other side is writing <del>his</del> <ins>their</ins> report. After five minutes of anticipation <del>.
 Y</del> <ins>, y</ins>ou receive, "OK". No exclamation point, no heartfelt emoji<del>, just "O K". It's like receiving a</del><ins>. Just an “OK” — a big</ins> warm hug from a robot.
 
 You pour your heart out to someone, spilling your deepest feelings and thoughts onto the digital canvas. You hit send, eagerly awaiting a meaningful reply. You see three bouncing dots (•••) indicating that the one on the other side is writing their report. After five minutes of anticipation, you receive, “OK”. No exclamation point, no heartfelt emoji, nothing. Just an “OK” — a big warm hug from a robot.
