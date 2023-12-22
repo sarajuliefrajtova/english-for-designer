@@ -59,8 +59,10 @@ In a nutshell, this essay highlights the unexpected depth and complexity of the 
 
 I have no clue where it all started, but perhaps it emerged in our fast-paced world, where many of us aim to minimise our word count when replying. As a result, we've decided to truncate phrases like "I'm fine" or "Well" to a simple "O K."
 
-Picture this: you pour your heart out to someone, spilling your deepest feelings and thoughts onto the digital canvas. You hit send, eagerly awaiting a meaningful response. You see 3 waving dots indicating that the one on the other side is writing his report. After five minutes of anticipation.
-You receive, "OK". No exclamation point, no heartfelt emoji, just "O K". It's like receiving a warm hug from a robot.
+<del>Picture this:</del> you pour your heart out to someone, spilling your deepest feelings and thoughts onto the digital canvas. You hit send, eagerly awaiting a meaningful response. You see <del>3 waving dots </del>three bouncing dots (•••) <ins>indicating that the one on the other side is writing <del>his</del> <ins>their</ins> report. After five minutes of anticipation <del.
+Y</del> <ins>, y</ins>ou receive, "OK". No exclamation point, no heartfelt emoji<del>, just "O K". It's like receiving a</del><ins>. Just an “OK” — a big</ins> warm hug from a robot.
+
+You pour your heart out to someone, spilling your deepest feelings and thoughts onto the digital canvas. You hit send, eagerly awaiting a meaningful reply. You see three bouncing dots (•••) indicating that the one on the other side is writing their report. After five minutes of anticipation, you receive, “OK”. No exclamation point, no heartfelt emoji, nothing. Just an “OK” — a big warm hug from a robot.
 
 At first, I tried to decode the hidden meaning behind this seemingly simple word. Was it a secret way of saying, "I'm excited, but I won’t admit it" or "I’m full of emotions, but I’ll act cool"? Even so, the truth is much less impressive. It’s something like a shoulder shrug, a way of saying "Eh… whatever.". You can pour heart into a conversation, and "OK" just slams the door on any chance of having a real talk. 
 
