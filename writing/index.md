@@ -2,4 +2,4 @@
 
 ## Some Writing I've done
 
-[“OK” essay](index.md)
+[“OK” essay](ok.md)
