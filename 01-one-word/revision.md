@@ -68,8 +68,6 @@ I've come to one realisation<del>. In a similar way as</del> <ins>that it’s co
 
 Yes, I'm referring to the word "OK". My parents love to use this kind of biped <ins>(two-legged)</ins> word. My mum has even her own mesmerising combination <ins>, a real one-two punch</ins>: "OK" plus "thumbs up" emoji. I understand <ins>it</ins>, <del>they</del> <ins>she's</ins> <del>just</del> try<ins>ing</ins> to be <del>modern</del> <ins>cool</ins> and kind <del>as well</del> <ins>at the same time</ins>. But let's be honest, it's the ultimate conversation killer, <del>a linguistic underachiever (= someone who doesn’t perform as well/work as hard as he/she can)</del> <ins>an epic text fail</ins>. <ins>It’s a</ins> word that makes you question whether you ever asked for a reply in the first place.
 
-Yes, I’m referring to the word “OK”. My parents love to use this biped (two-legged) word. My mum even has her own mesmerizing combo, a real one-two punch: “OK” plus a “thumbs up” emoji. I understand it, she’s trying to be cool and kind at the same time. But let’s be honest, it’s the ultimate conversation killer, an epic text fail. It’s a word that makes you question whether you ever asked for a reply in the first place.
-
 So, there’s to "OK" – the two-letter word which can both confuse and frustrate us, all while making us feel like we didn’t say anything at all. Nonetheless, it’s "OK" to dislike it, right?
 
 > [!NOTE]
