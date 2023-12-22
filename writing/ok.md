@@ -1,4 +1,4 @@
-# One Word — "OK" 🐳
+# One Word — “OK” 🐳
 
 by Sára Julie Frajtová | 22nd of November 2023
 
