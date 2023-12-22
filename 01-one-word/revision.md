@@ -70,7 +70,5 @@ Yes, I'm referring to the word "OK". My parents love to use this kind of biped <
 
 So, there’s to "OK" – the two-letter word <ins>, phrase, and catch-all reply for everything.</ins> <del>which can both</del> <ins>To</ins> confuse and frustrate us, all while making us feel like we didn’t <ins>really</ins> say anything at all. <del>Nonetheless</del> <ins>Yet</ins>, it’s "OK" to dislike it, right? <ins>I mean — OK.</ins>
 
-So, here’s to “OK” – the two-letter word, phrase, and catch-all reply for everything. To confuse and frustrate us, all while making us feel like we didn’t really say anything at all. Yet, it’s okay to dislike it, right? I mean — OK.
-
 > [!NOTE]
 > **Great job!** you're approching to the [Final version](index.md)
