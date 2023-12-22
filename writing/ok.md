@@ -1,4 +1,4 @@
-[Home](index.md) [About Me](../about.md) [Work](../work/index.md) [Writing](../writing/index.md)
+  [Back](index.md)
 
 # One Word — “OK” 🐳
 
