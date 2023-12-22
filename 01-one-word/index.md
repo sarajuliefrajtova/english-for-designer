@@ -10,7 +10,7 @@
 
 by Sára Julie Frajtová | 22nd of November 2023
 
-![Satiric Illustration About Heartfelt Robotic Conversations When Using 'OK' word](Satiric_Illustration_About_Heartfelt_Robotic_Conversations_About_OK_Word.png)
+![Satirical heartfelt robotic conversations about the word “OK”. Color illustration.](Satiric_Illustration_About_Heartfelt_Robotic_Conversations_About_OK_Word.png)
 
 Ah, "OK". The two-letter responses — for those of ones who haven’t ever heard about this stunning word yet, poor you. Poor you, if you love to stand at the edge of blandness and confusion at the same time. 
 
