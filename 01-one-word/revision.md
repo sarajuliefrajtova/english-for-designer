@@ -54,7 +54,8 @@ In a nutshell, this essay highlights the unexpected depth and complexity of the 
 ## Essay version with feedback
 ### / During this step I used [Hemnigway editor](https://hemingwayapp.com/) 🛶 to edit my text. /
 
-Ah, "OK". The two-letter responses — for those of ones who haven’t ever heard about this stunning word yet, poor you. Poor you, if you love to stand at the edge of blandness and confusion at the same time. 
+<del>Ah,</del> "OK"<del>.</del> The two-letter responses — for those of ones who <del>haven’t ever heard about</del> this <mark>stunning</mark> word yet, poor you. <ins>Ah,</ins> Poor you, if you love to stand at the edge of blandness and confusion at the same time. 
+“OK” — the two-letter response — for those who have yet heard of this stunning word. Ah, poor you, if you love to stand at the edge of blandness and confusion at the same time.
 
 I have no clue where it all started, but perhaps it emerged in our fast-paced world, where many of us aim to minimise our word count when replying. As a result, we've decided to truncate phrases like "I'm fine" or "Well" to a simple "O K."
 
