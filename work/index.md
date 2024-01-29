@@ -92,6 +92,6 @@ At the very beginning of the whole project I was in a situation where I was unab
 However, through the process of life, I've learned (at least halfway through) that I shouldn't be afraid to voice my opinion.
 </br>
 ### What has it taught me?
-1. Do not underestimate your personal value.2. Genuine friends will always tell you the truth when they feel you are unconsciously wounding yourself.
+1. Do not underestimate your personal value.
 2. Ask your colleagues for a help/opinion whenever you need it. You are not competent to know everything. Don't be afraid to be the ‘dumbest’ in the room — you’re never actually a  dumb, it's just your ego that thinks you are.
 3. Explore new, less unpredictable journeys, the power of serendipity is marvellous.
