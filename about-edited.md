@@ -7,7 +7,7 @@ I have a faith that every single action, every single decision, leads us in an u
 
 ### Philosphy, Art, Spirit 
 
-Philosophy has been a big and essential part of me since I was a kid. At that time, <del>however</del> <ins>but</ins>, I <del>did not</del><ins>didn't<ins> read any intellectual literature, I have only constantly thought deeply about the world, about the purpose of our existence and observed everything around me. 
+Philosophy has been a big and essential part of me since I was a kid. At that time, <del>however</del> <ins>but</ins>, I <del>did not</del><ins>didn't</ins> read any intellectual literature, I have only constantly thought deeply about the world, about the purpose of our existence and observed everything around me. 
 
 In the course of my life I gradually began to find the way to my true knowledge. On this journey, I have come to understand that art and spirituality are an essential part of it.  This is actually the very first time in my life that I am speaking about this publicly.
 
