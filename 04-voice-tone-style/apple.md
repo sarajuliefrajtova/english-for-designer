@@ -50,11 +50,6 @@ See examples below.
 
 ## Style
 
-Introduction to section…
-
-<!-- Consider including style tips on capitalization of headings (sentence or title case), words to avoid, or general grammar and mechanics dos and don’ts, etc.
-See: https://styleguide.mailchimp.com/grammar-and-mechanics/-->
-
 - Approchable & Straightforward: easy to understood by a wide audience — especially when speaking about in more technical terminology. 
 - Confident: By using short and bold sentences Apple appear assured without being arrogant — e.g. “You’ll notice every day” and “Leaves the competition behind.”
 - Consistent: brand voice flow through everything the company publishes
