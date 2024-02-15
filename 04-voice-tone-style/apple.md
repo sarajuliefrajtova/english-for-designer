@@ -37,7 +37,7 @@ See examples below.
 
 ### Valentine's Day — Example 2
 - (First section translated to English: _iPad. Awaken the imagination._)
-- (Second section translated to English: _iPhone. Love is calling._)
+- (Second section translated to English: _Apple Watch. Give the gift of a heart on your hand._)
 
 ![Apple Valentine's Day Email Newsletter promoting the iPhone](img/Apple-Valentines-Day-Email-Newsletter-iPad-and-iWatch.jpeg)
 
