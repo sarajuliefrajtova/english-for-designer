@@ -5,7 +5,7 @@
 <!-- Content Style Guide -->
 <!-- Note: Even your headings can have your voice, tone, and style. -->
 
-An overview…
+I chose the Apple brand not because I identify with it. Although I like using their products. I chose this brand as an example of a powerful consistent brand voice.
 
 ## Voice
 
