@@ -52,5 +52,5 @@ See examples below.
 
 - Approchable & Straightforward: easy to understood by a wide audience — especially when speaking about in more technical terminology. 
 - Confident: By using short and bold sentences Apple appear assured without being arrogant — e.g. “You’ll notice every day” and “Leaves the competition behind.”
-- Consistent: brand voice flow through everything the company publishes
+- Consistent: brand voice flow through everything the company publishes.
 
