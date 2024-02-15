@@ -22,9 +22,6 @@ Introduction to section…
   - Apple has a strong brand voice because it flows through everything that company publishes
 
 ## Tone
-
-Introduction to section…
-
 Tone is always based on the Apple’s voice — short sentence, bold statements, easy to understand, straightforward. But its tone depends on the particular audience (students, parents, older, younger etc.) or on the situation (such as Valentine's day / Releasing new product / Student sales etc.). 
 See examples below.
 
