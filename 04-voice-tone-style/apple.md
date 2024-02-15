@@ -11,13 +11,13 @@ I chose the Apple brand not because I identify with it. Although I like using th
 
 Apple voice is:
 
-- Confident; 
-- Making frequent use of short sentences and bold statements (which corresponds with the design of their products) — these make the company appear assured without being arrogant;
-- The brand is voice is also straightforward:
+- **Confident**; 
+- Making frequent use of **short** **sentences** and **bold** **statements** (which corresponds with the design of their products) — these make the company appear assured without being arrogant;
+- The brand is voice is also **straightforward**:
   - It’s copy is easy to understand, even when it describes the more technical elements of its products.
   - This ensures its website content and marketing materials are easy for a large audience to understand. 
   - This helps Apple appeal to as wide an audience as possible rather than seeming exclusive or exclusionary (which could be a risk with products perceived as premium or luxury items).
-- Apple’s brand voice remains consistent — even on its product pages and in product description
+- Apple’s brand voice **remains** **consistent** — even on its product pages and in product description
   - Not only in marketing content and social media posts
   - Apple has a strong brand voice because it flows through everything that company publishes
 
@@ -50,7 +50,7 @@ See examples below.
 
 ## Style
 
-- Approchable & Straightforward: easy to understood by a wide audience — especially when speaking about in more technical terminology. 
-- Confident: By using short and bold sentences Apple appear assured without being arrogant — e.g. “You’ll notice every day” and “Leaves the competition behind.”
-- Consistent: brand voice flow through everything the company publishes.
+- **Approchable & Straightforwar**d: easy to understood by a wide audience — especially when speaking about in more technical terminology. 
+- **Confident**: By using short and bold sentences Apple appear assured without being arrogant — e.g. “You’ll notice every day” and “Leaves the competition behind.”
+- **Consistent**: brand voice flow through everything the company publishes.
 
