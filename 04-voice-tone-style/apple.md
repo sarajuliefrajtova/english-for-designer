@@ -27,7 +27,6 @@ Introduction to section…
 
 Tone is always based on the Apple’s voice — short sentence, bold statements, easy to understand, straightforward. But its tone depends on the particular audience (students, parents, older, younger etc.) or on the situation (such as Valentine's day / Releasing new product / Student sales etc.).
 
-You can see examples of Apple tone of voice down below on the images.
 
 ### Valentine's Day
 ![Apple Valentine's Day Email Newsletter promoting the iPhone](img/Apple-Valentines-Day-Email-Newsletter-iPhone.jpeg)
