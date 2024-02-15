@@ -43,6 +43,11 @@ See examples below.
 
 ![Apple Valentine's Day Email Newsletter promoting the iPhone](img/Apple-New-Product-Release-Email-Newsletter-iPhone.jpeg)
 
+### Student Sales 
+- (Translated to English: _iPad and Mac. Strong study prerequisites._)
+
+![Apple Valentine's Day Email Newsletter promoting the iPhone](img/Apple-New-Product-Release-Email-Newsletter-iPhone.jpeg)
+
 ## Style
 
 Introduction to section…
