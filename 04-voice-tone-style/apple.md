@@ -46,7 +46,7 @@ See examples below.
 ### Student Sales 
 - (Translated to English: _iPad and Mac. Strong study prerequisites._)
 
-![Apple Valentine's Day Email Newsletter promoting the iPhone](img/Apple-New-Product-Release-Email-Newsletter-iPhone.jpeg)
+![Apple Valentine's Day Email Newsletter promoting the iPhone](img/Apple-Student-Sales-Email-Newsletter.jpeg)
 
 ## Style
 
