@@ -16,6 +16,10 @@ Malinna voice is:
 - Professional & Caring: Within the brand’s copy there is a feeling of professional product & service provider. 
 - Approachable: When the brand provides more expert content, it tries to be as approachable as possible.
 
+Examples: 
+- Example: “Care does not end with the sale for us. We pay our clients individual attention. They are encouraged to consult with us or seek our advice especially if they use our products as supportive care in the treatment of their health conditions.”
+- Example: “The essence. The product ingredients contain solely the highest quality raw organic oils, natural salts, essential oils and herbal infusions – their flowers, fruits, seeds, roots or the whole plants. Following the processing using no additional synthetic chemicals, the final compounds become soluble in water and fully absorbable. The natural origin of the constituents enables the organism to work with each of them effectively. It can utilise them directly and simultaneously use them to create other essential nutrients inevitable for its correct development, functioning and regeneration. The inhibiting properties of some constituents of all our products weaken the pathogens in the body and thus impede their replication. The attenuated pathogens become a library for the immune system developing resistance to them.”
+
 ## Tone
 Tone is always based on the Apple’s voice — short sentence, bold statements, easy to understand, straightforward. But its tone depends on the particular audience (students, parents, older, younger etc.) or on the situation (such as Valentine's day / Releasing new product / Student sales etc.). 
 See examples below.
