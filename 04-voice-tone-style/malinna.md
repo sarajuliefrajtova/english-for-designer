@@ -21,36 +21,11 @@ Examples:
 - **Example 1**: “The essence. The product ingredients contain solely the highest quality raw organic oils, natural salts, essential oils and herbal infusions – their flowers, fruits, seeds, roots or the whole plants. Following the processing using no additional synthetic chemicals, the final compounds become soluble in water and fully absorbable. The natural origin of the constituents enables the organism to work with each of them effectively. It can utilise them directly and simultaneously use them to create other essential nutrients inevitable for its correct development, functioning and regeneration. The inhibiting properties of some constituents of all our products weaken the pathogens in the body and thus impede their replication. The attenuated pathogens become a library for the immune system developing resistance to them.”
 
 ## Tone
-Tone is always based on the Apple’s voice — short sentence, bold statements, easy to understand, straightforward. But its tone depends on the particular audience (students, parents, older, younger etc.) or on the situation (such as Valentine's day / Releasing new product / Student sales etc.). 
-See examples below.
-
-
-### Valentine's Day — Example 1
-- (First section translated to English: _St. Valentine's Day. Presents. Made for love._)
-- (Second section translated to English: _iPhone. Love is calling._)
-
-![Apple Valentine's Day Email Newsletter promoting the iPhone](img/Apple-Valentines-Day-Email-Newsletter-iPhone.jpeg)
-
-### Valentine's Day — Example 2
-- (First section translated to English: _iPad. Awaken the imagination._)
-- (Second section translated to English: _Apple Watch. Give the gift of a heart on your hand._)
-
-![Apple Valentine's Day Email Newsletter promoting the iPhone](img/Apple-Valentines-Day-Email-Newsletter-iPad-and-iWatch.jpeg)
-
-### New Product Launch
-- (Translated to English: _iPhone 14 Pro. For. The Best._)
-
-![Apple Valentine's Day Email Newsletter promoting the iPhone](img/Apple-New-Product-Release-Email-Newsletter-iPhone.jpeg)
-
-### Student Sales 
-- (Translated to English: _iPad and Mac. Strong study prerequisites._)
-
-![Apple Valentine's Day Email Newsletter promoting the iPhone](img/Apple-Student-Sales-Email-Newsletter.jpeg)
+Based on my small content style “research” I’ve found out that:
+- The brand voice is pretty consistent. Its voice is kept while changing a bit its tone based on the situation (such as the special offer — Valentine's Day / Products for kids etc.)
 
 ## Style
 
-- Approchable & Straightforward: easy to understood by a wide audience — especially when speaking about in more technical terminology. 
-- Confident: By using short and bold sentences Apple appear assured without being arrogant — e.g. “You’ll notice every day” and “Leaves the competition behind.”
-- Consistent: brand voice flow through everything the company publishes.
+
 
 
