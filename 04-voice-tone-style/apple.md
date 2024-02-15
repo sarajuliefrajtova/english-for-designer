@@ -9,7 +9,7 @@ I chose the Apple brand not because I identify with it. Although I like using th
 
 ## Voice
 
-Introduction to section…
+Apple voice is:
 
 - Confident; 
 - Making frequent use of short sentences and bold statements (which corresponds with the design of their products) — these make the company appear assured without being arrogant;
