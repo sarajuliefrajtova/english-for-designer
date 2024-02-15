@@ -29,6 +29,7 @@ Tone is always based on the Apple’s voice — short sentence, bold statements,
 
 
 ### Valentine's Day
+(Translated to English: _St. Valentine's Day. Presents. Made for love._)
 ![Apple Valentine's Day Email Newsletter promoting the iPhone](img/Apple-Valentines-Day-Email-Newsletter-iPhone.jpeg)
 
 
