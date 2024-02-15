@@ -9,17 +9,12 @@ Malinna is one of the brands I could say "I identify with" (but not literaly —
 
 ## Voice
 
-Apple voice is:
+Malinna voice is:
 
-- Confident; 
-- Making frequent use of short sentences and bold statements (which corresponds with the design of their products) — these make the company appear assured without being arrogant;
-- The brand is voice is also straightforward:
-  - It’s copy is easy to understand, even when it describes the more technical elements of its products.
-  - This ensures its website content and marketing materials are easy for a large audience to understand. 
-  - This helps Apple appeal to as wide an audience as possible rather than seeming exclusive or exclusionary (which could be a risk with products perceived as premium or luxury items).
-- Apple’s brand voice remains consistent — even on its product pages and in product description
-  - Not only in marketing content and social media posts
-  - Apple has a strong brand voice because it flows through everything that company publishes
+- Gentle & Calming: Mallina use gentle voice as their products are aimed mostly for woman and as the brand represents natural products.
+- Grounded & Non-Expressive: Brand voice is grounded, in its it doesn’t use expressive words. It uses more plain but gentle composed sentences.
+- Professional & Caring: Within the brand’s copy there is a feeling of professional product & service provider. 
+- Approachable: When the brand provides more expert content, it tries to be as approachable as possible.
 
 ## Tone
 Tone is always based on the Apple’s voice — short sentence, bold statements, easy to understand, straightforward. But its tone depends on the particular audience (students, parents, older, younger etc.) or on the situation (such as Valentine's day / Releasing new product / Student sales etc.). 
