@@ -5,7 +5,7 @@
 <!-- Content Style Guide -->
 <!-- Note: Even your headings can have your voice, tone, and style. -->
 
-Malinna is one of the brands I could say "I identify with" (but not literaly — as with any kind of brand).
+Malinna is one of the brands I could say "I identify with" (but not literaly — as with any kind of brand). I just enjoy its overall concept — from the products themselves, through the brand presentation to their communication with its costumers.
 
 ## Voice
 
