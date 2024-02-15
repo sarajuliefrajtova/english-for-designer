@@ -29,7 +29,7 @@ Tone is always based on the Apple’s voice — short sentence, bold statements,
 
 You can see examples of Apple tone of voice down below on the images.
 
-![Apple Valentine's Day Email Newsletter promoting the iPhone](img/Apple-Valentines-Day-Email-Newsletter-iPhone.png)
+![Apple Valentine's Day Email Newsletter promoting the iPhone](img/Apple-Valentines-Day-Email-Newsletter-iPhone.jpeg)
 
 ## Style
 
