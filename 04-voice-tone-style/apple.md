@@ -25,7 +25,8 @@ Introduction to section…
 
 Introduction to section…
 
-Tone is always based on the Apple’s voice — short sentence, bold statements, easy to understand, straightforward. But its tone depends on the particular audience (students, parents, older, younger etc.) or on the situation (such as Valentine's day / Releasing new product / Student sales etc.).
+Tone is always based on the Apple’s voice — short sentence, bold statements, easy to understand, straightforward. But its tone depends on the particular audience (students, parents, older, younger etc.) or on the situation (such as Valentine's day / Releasing new product / Student sales etc.). 
+See examples below.
 
 
 ### Valentine's Day — Example 1
