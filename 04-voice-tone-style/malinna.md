@@ -22,7 +22,7 @@ Examples:
 
 ## Tone
 Based on my small content style “research” I’ve found out that:
-- The brand voice is pretty consistent. Its voice is kept while changing a bit its tone based on the situation (such as the special offer — Valentine's Day / Products for kids etc.)
+- The brand voice is pretty consistent. Its voice is kept while changing a bit its tone based on the situation (such as the special offer — Valentine's Day / Products for kids etc.).
 
 ## Style
 
