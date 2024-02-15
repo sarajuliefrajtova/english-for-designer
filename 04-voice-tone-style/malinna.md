@@ -1,4 +1,4 @@
-# Voice, Tone, and Style of Apple brand
+# Voice, Tone, and Style of Malinna brand
 
 <!-- Voice, Tone, and Style -->
 <!-- Voice and Tone (Style, too) -->
