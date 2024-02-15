@@ -38,6 +38,11 @@ See examples below.
 
 ![Apple Valentine's Day Email Newsletter promoting the iPhone](img/Apple-Valentines-Day-Email-Newsletter-iPad-and-iWatch.jpeg)
 
+### New Product Launch
+- (Translated to English: _iPhone 14 Pro. For. The Best._)
+
+![Apple Valentine's Day Email Newsletter promoting the iPhone](img/Apple-New-Product-Release-Email-Newsletter-iPhone.jpeg)
+
 ## Style
 
 Introduction to section…
