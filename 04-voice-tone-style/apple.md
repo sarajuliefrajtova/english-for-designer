@@ -36,17 +36,17 @@ See examples below.
 - (First section translated to English: _iPad. Awaken the imagination._)
 - (Second section translated to English: _Apple Watch. Give the gift of a heart on your hand._)
 
-![Apple Valentine's Day Email Newsletter promoting the iPhone](img/Apple-Valentines-Day-Email-Newsletter-iPad-and-iWatch.jpeg)
+![Apple Valentine's Day Email Newsletter promoting the iPad and iWatch](img/Apple-Valentines-Day-Email-Newsletter-iPad-and-iWatch.jpeg)
 
 ### New Product Launch
 - (Translated to English: _iPhone 14 Pro. For. The Best._)
 
-![Apple Valentine's Day Email Newsletter promoting the iPhone](img/Apple-New-Product-Release-Email-Newsletter-iPhone.jpeg)
+![Apple Promoting New Product Launch in Email Newsletter](img/Apple-New-Product-Release-Email-Newsletter-iPhone.jpeg)
 
 ### Student Sales 
 - (Translated to English: _iPad and Mac. Strong study prerequisites._)
 
-![Apple Valentine's Day Email Newsletter promoting the iPhone](img/Apple-Student-Sales-Email-Newsletter.jpeg)
+![Apple Student Sales Promoted in Email Newsletter](img/Apple-Student-Sales-Email-Newsletter.jpeg)
 
 ## Style
 
