@@ -52,6 +52,5 @@ See examples below.
 
 - Short sentences
 - Bold statements
-- **Confident**: By using short and bold sentences Apple appear assured without being arrogant — e.g. “You’ll notice every day” and “Leaves the competition behind.”
-- **Consistent**: brand voice flow through everything the company publishes.
+- Simple & comprehensible language
 
