@@ -15,7 +15,7 @@ When needed, I'm able to hear others out.
 - **Honest but Polite:** Even though, I'm respectful to other, I speak honestly, I don't lie. However, I use polite, inoffensive language. I belive honesty is absolutely fundamental part human's communication.
 
 ### But sometimes my voice is also:
-- **People-pleasing:** In some cases, currently it's much less than before, I try to over-explain concerete situation to not hurt other people or to defend myself, so other won't thinking about me in a plain I wouldn’t like to. But I'm glad I've been changing this habit within how I'm exploring my _being_.
+- **People-pleasing:** In some cases, currently it's much less than before, I strive to over-explain concerete situation to not hurt other people or to defend myself, so other won't thinking about me in a plain I wouldn’t like to. But I'm glad I've been changing this habit within how I'm exploring my _being_.
 
 ## Tone
 
@@ -31,4 +31,4 @@ See: https://styleguide.mailchimp.com/grammar-and-mechanics/-->
 
 - **Emojis:** I usually use emoji in informal (sometimes in formal text as well — it depends on my realtionship with the human on the other side) communication. Nonetheless, I don't over use them. I take them as part of expressing some emotion, or use the for better understanding the tone of the certain message. 
 - **Proper (Czech) grammar:** Since my elementary school studies I'm used to use proper grammatics with all the trimmings. I use this 'rule' in most of the cases, except situations which are requiring fast answer or in a 'texting mode' with my friends / family. By using proper grammar, people create more comprehensible content and can prevent unnecessary confusion for the person on the other side of the line. 
-- **Sometimes brief, sometimes extensive:** 
+- **Sometimes brief, sometimes extensive:** I strive to write the text as brief as possible. Nevertheless, in some cases (especially when I'm explaining more complex topic to a customer), I write more extensive reports. This is because I wish to help them understand the topic better.
