@@ -10,9 +10,9 @@
 
 I want my voice to be: 
 
-1. …
-2. …
-3. …
+- **Respectful:** Whenever I talk with other people, I use respectful voice — I listen properly, I'm present as possible to understand other people on each and every level of their message and expression, I'm ready to an ear whenever they're needed, don't make any excuses (in most of the time), listen to other's poeple oppinion without judging them
+- **Honest**
+- ****
 
 ## Tone
 
