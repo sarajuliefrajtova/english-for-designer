@@ -14,6 +14,7 @@
 - **Honest but Polite:** Even though, I'm respectful to other, I speak honestly, I don't lie. However, I use polite, inoffensive language. I belive honesty is absolutely fundamental part human's communication.
 
 ### But sometimes my voice is also:
+- **People-pleasing:** 
 
 ## Tone
 
