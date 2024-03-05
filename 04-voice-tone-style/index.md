@@ -19,7 +19,7 @@ When needed, I'm able to hear others out.
 
 ## Tone
 
-- **Friendly:** When I'm meeting new people I'm curious about them — through various questions I ask them about their personality and life. However, I respect their personal boundires and time. I try to observe their facial expressions, gestures and posturology to sense if the person feels comfortable during the communication. In my circle of closest friends, with the level of familiarity I already have with them, I know what I can afford to do tell them, but not harm them in any way.
+- **Friendly:** When I meet new people, I tend to be more of a spectator and listener than a speaker. After some time of analyzing the people around me, when I feel safe, I become curious about them - through various questions I ask them about their personality and life. However, I respect their personal boundires and time. I try to observe their facial expressions, gestures and posturology to sense if the person feels comfortable during the communication.  In my circle of closest friends, with the level of familiarity I already have with them, I know what I can afford to do tell them, but not harm them in any way.
 - …
 - …
 
