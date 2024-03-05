@@ -14,7 +14,7 @@
 - **Honest but Polite:** Even though, I'm respectful to other, I speak honestly, I don't lie. However, I use polite, inoffensive language. I belive honesty is absolutely fundamental part human's communication.
 
 ### But sometimes my voice is also:
-- **People-pleasing:** In some cases, currently it's much less than before, I try to over-explain concerete situation to not hurt other people or to defend myself, so other won't thinking about me in a plain I wouldn’t like to. But I'm glad I changing this habit within how I understanding my inner-self.
+- **People-pleasing:** In some cases, currently it's much less than before, I try to over-explain concerete situation to not hurt other people or to defend myself, so other won't thinking about me in a plain I wouldn’t like to. But I'm glad I've been changing this habit within how I'm exploring my inner-self.
 
 ## Tone
 
