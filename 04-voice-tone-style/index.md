@@ -8,7 +8,7 @@
 
 ## Voice
 
-### My voice is (and I still improving that):
+### My voice is:
 
 - **Respectful:** Whenever I talk with other people, I use a respectful voice. I listen properly, I'm present and calm as possible to understand other people on each and every level of their message and expression — and based on that I'm able to answer them without judging. I'm not taking other's perspective personally, rather I'm in position of independet, neutral viewer, so I'm able to respond without being in the throes of emotion. It doesn't mean I don't care about other, I just realize that each of us see the external world based on the inner state. This leads to different perceptions of the ceratin identical situation. When needed, I'm able to hear others out.
 - **Honest but Polite:** Even though, I'm respectful to other, I speak honestly, I don't lie. However, I use polite, inoffensive language. I belive honesty is absolutely fundamental part human's communication.
