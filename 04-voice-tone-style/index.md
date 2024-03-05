@@ -26,11 +26,9 @@ When needed, I'm able to hear others out.
 
 ## Style
 
-Introduction to section…
-
 <!-- Consider including style tips on capitalization of headings (sentence or title case), words to avoid, or general grammar and mechanics dos and don’ts, etc.
 See: https://styleguide.mailchimp.com/grammar-and-mechanics/-->
 
-- …
-- …
-- …
+- **Emojis:** I usually use emoji in informal (sometimes in formal text as well — it depends on my realtionship with the human on the other side) communication. Nonetheless, I don't over use them. I take them as part of expressing some emotion, or use the for better understanding the tone of the certain message. 
+- **Proper (Czech) grammar:** Since my elementary school studies I'm used to use proper grammatics with all the trimmings. I use this 'rule' in most of the cases, except situations which are requiring fast answer or in a 'texting mode' with my friends / family. By using proper grammar, people create more comprehensible content and can prevent unnecessary confusion for the person on the other side of the line. 
+- **Sometimes brief, sometimes extensive:** 
