@@ -1,5 +1,5 @@
 # Creator or victim of life? #
-## Let yourself be carried away by the river of life. ##
+## Let the river _Life_ carry you. ##
 
 by Sara(h) Julie Frajtová
 
