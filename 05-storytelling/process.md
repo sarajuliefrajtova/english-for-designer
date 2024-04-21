@@ -10,7 +10,7 @@ by Sara Julie Frajtová
 ## Choosing a topic
 
 ## First ideas & topic connections
-— Full responsibility for each and every action
+- Full responsibility for each and every action
 — Inner power
 — Flow
 — Creator
