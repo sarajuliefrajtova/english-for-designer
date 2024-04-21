@@ -25,7 +25,9 @@ Maybe this story will open another imaginary door for some of you.
 **Delete or edit somehow?: Music and dance. Since my childhood both them have been an indispensable part of my life. I have**
 
 Music. The feeling of an invisible and indescribable energy passing through your whole body, a gentle ‘guide’. A guide that accompanies you with every note of the music, shaping your body into a different position with every hundredth note.
+
 If you let the music flow, you do not evaluate it in any way, it permeates through your ears and into your mind. There it dissolves any thought. It passes on into your whole body. You don't have to know the music, you don't have to know the coming note. If you are fully aware of the tone at the moment, the music will guide you. It becomes your imaginary fellow dancer. But at the same time you become the creator. The creator of every movement of your body. A movement that is in complete synergy with the rhythm of the music. 
+
 Music is a symbol of life, the flow of life, which, like the tone of unknown music, is unpredictable. The invisible guide is your intuition, which if you listen to, do not resist, you accept the flow of life (music). And the dance? That is the very decision, the actions flow with the music. That is, with life.
 
 
