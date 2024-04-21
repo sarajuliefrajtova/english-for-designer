@@ -17,11 +17,11 @@ by Sara Julie Frajtová
 - Victim
 - Blaming others
 - Excuses
-- Running away 
-— Hiding 
-— Hermit 
-— Before you try to save others, have you saved yourself? Or are you just hiding your problems behind others? Because you are not strong enough to stand up for yourself?
-— Fear 
-— Mind vs Intution: Loud vs Quite
-— Childhood
-— Dance
+- Running away
+- Hiding
+- Hermit
+- Before you try to save others, have you saved yourself? Or are you just hiding your problems behind others? Because you are not strong enough to stand up for yourself?
+- Fear
+- Mind vs Intution: Loud vs Quite
+- Childhood
+- Dance
