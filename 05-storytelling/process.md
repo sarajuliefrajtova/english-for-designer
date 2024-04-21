@@ -1,7 +1,7 @@
 # Creator or victim of life? #
 ## Let yourself be carried along by the river of _Life_. ##
 
-by Sara(h) Julie Frajtová
+by Sara Julie Frajtová
 
 20 April 2024
 
