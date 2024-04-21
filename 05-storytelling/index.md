@@ -16,7 +16,7 @@ by Sara Julie Frajtová
 ### Welcome,
 my name is Sara Julie. 
 
-Let me tell you the story of the realisation. A realisation that brought about indescribable states in my _Being_. States that appear and can disappear in an instant. States that make me feel calm, but also powerful. States in which I receive, flow and create. But it's a process, I may be at the very beginning of this journey. I'm still learning, still changing. However, I believe that these states don't have to be repetitive and temporary. These states can be a part of you. In the moment, when you choose. The moment you accept life as it is and start creating. I have faith that any change begins with becoming aware when it comes to this matter, followed by making a decision. But most importantly, taking the action.
+Let me tell you the story of the realisation. A realisation that brought about indescribable states in _Being_. States that appear and can disappear in an instant. States that make me feel calm, but also powerful. States in which I receive, flow and create. But it's a process, I may be at the very beginning of this journey. I'm still learning, still changing. However, I believe that these states don't have to be repetitive and temporary. These states can be a part of you. In the moment, when you choose. The moment you accept life as it is and start creating. I have faith that any change begins with becoming aware when it comes to this matter, followed by making a decision. But most importantly, taking the action.
 
 _Maybe this story will open another imaginary door for some of you._
 
@@ -28,6 +28,6 @@ Music. The feeling of an invisible and indescribable energy passing through your
 
 If you let the music flow, you do not evaluate it in any way, it permeates through your ears and into your mind. There it dissolves any thought. It passes on into your whole body. You don't have to know the music, you don't have to know the coming note. If you are fully aware of the tone at the moment, the music will guide you. It becomes your imaginary fellow dancer. But at the same time you become the creator. The creator of every movement of your body. A movement that is in complete synergy with the rhythm of the music. 
 
-Music is a symbol of life, the flow of life, which, like the tone of unknown music, is unpredictable. The invisible guide is your intuition, which if you listen to, do not resist, you accept the flow of life (music). And the dance? That is the very decision, the actions flow with the music. That is, with life.
+Music is a symbol of life, the flow of life, which, like the tone of unknown music, is unpredictable. The invisible guide is your intuition, which if you listen to, don't resist, you accept the flow of life (music). And the dance? That is the very decision, the actions flow with the music. That is, with life.
 
 
