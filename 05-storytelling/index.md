@@ -12,4 +12,5 @@ by Sara Julie Frajtová
 - Watch [the video](…) (audio + slides) / to be added
 - View [the process](process.md) <!-- Preparation, show and tell your process; think, case study. -->
 
-<!-- A text transcription of your audio as stand-alone article with images, links, etc. -->
+Welcome,
+my name is Sara Julie.
