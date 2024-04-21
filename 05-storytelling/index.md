@@ -1,5 +1,5 @@
 # Creator or victim of life? 
-## Let yourself be carried ~ along by the music _Life_. ## 
+## Let yourself be carried along by the music ~ _Life_. ## 
 
 
 by Sara Julie Frajtová
