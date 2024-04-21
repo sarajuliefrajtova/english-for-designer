@@ -7,7 +7,7 @@ by Sara Julie Frajtová
 
 — Read [the article](./index.md) <!-- index.md -->
 
-## Process
+## Choosing a topic
 
 <!-- Treat this as the case study to your article/talk/presentation. Document, discuss, and show your process (mind maps, chunking, draft and revised content, presenter notes, links to resources, etc.) -->
 <!-- Preparing a conference talk: https://adactio.com/journal/14363 -->
