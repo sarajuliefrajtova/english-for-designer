@@ -11,13 +11,13 @@ by Sara Julie Frajtová
 
 ## First ideas & topic connections
 - Full responsibility for each and every action
-— Inner power
-— Flow
-— Creator
-— Victim
-— Blaming other
-— Excuses
-— Running away 
+- Inner power
+- Flow
+- Creator
+- Victim
+- Blaming others
+- Excuses
+- Running away 
 — Hiding 
 — Hermit 
 — Before you try to save others, have you saved yourself? Or are you just hiding your problems behind others? Because you are not strong enough to stand up for yourself?
