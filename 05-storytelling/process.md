@@ -34,3 +34,6 @@ During
 - Dance
 - Flow of the music, accept what the next sound brings and based on that creat the movement; do what your body feels without caring what other people says, because if you do so, you become a victim — you gonna say _if they aren't there I would dance the way I feel._ No, you can dance the way you feel even if other people are there. Your fear putting you into the position of victim of being unable to express yourself fully, becuase you're still depended on others oppinion, on your mind loud voice, instead listening your inner calm voice.
 - The mountain is you
+
+## Writing
+
