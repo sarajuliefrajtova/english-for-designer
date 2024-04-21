@@ -16,7 +16,7 @@ by Sara Julie Frajtová
 ### Welcome,
 my name is Sara Julie. 
 
-Let me tell you the story of the realisation. A realisation that brought about indescribable states in _Being_. States that appear and can disappear in an instant. States that make me feel calm, but also powerful. States in which I receive, flow and create. But it's a process, I may be at the very beginning of this journey. I'm still learning, still changing. However, I believe that these states don't have to be repetitive and temporary. These states can be a part of you. In the moment, when you choose. The moment you accept life as it is and start creating. I have faith that any change begins with becoming aware when it comes to this matter, followed by making a decision. But most importantly, taking the action.
+Let me tell you the story of the realisation. A realisation that brought about indescribable states in _Being_. States that appear and can disappear in an instant. States that make me feel calm as well as powerful. States in which I receive, flow and create. But it's a process, I may be at the very beginning of this journey. I'm still learning, still changing. However, I believe that these states don't have to be repetitive and temporary. These states can be a part of you. In the moment, when you choose. The moment you accept life as it is and start creating. I have faith that any change begins with becoming aware when it comes to this matter, followed by making a decision. But most importantly, taking the action.
 
 _Maybe this story will open another imaginary door for some of you._
 
