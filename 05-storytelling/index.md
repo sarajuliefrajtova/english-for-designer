@@ -21,3 +21,8 @@ Let me tell you the story of the realisation. A realisation that brought about i
 Maybe this story will open another imaginary door for some of you. 
 
 **Insert here a rhetorical question for the audience**
+
+Music and dance. Since my childhood both them have been an indispensable part of my life. I have
+
+
+tady popsat, jak jsem tancovala i v hlavě, představovali si taneční sceny, tancovala prsty, kdyz jsem nemela moznost tancovat celym telem (napr v aute)
