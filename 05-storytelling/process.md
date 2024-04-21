@@ -9,5 +9,19 @@ by Sara Julie Frajtová
 
 ## Choosing a topic
 
-<!-- Treat this as the case study to your article/talk/presentation. Document, discuss, and show your process (mind maps, chunking, draft and revised content, presenter notes, links to resources, etc.) -->
-<!-- Preparing a conference talk: https://adactio.com/journal/14363 -->
+## First ideas & topic connections
+— Full responsibility for each and every action
+— Inner power
+— Flow
+— Creator
+— Victim
+— Blaming other
+— Excuses
+— Running away 
+— Hiding 
+— Hermit 
+— Before you try to save others, have you saved yourself? Or are you just hiding your problems behind others? Because you are not strong enough to stand up for yourself?
+— Fear 
+— Mind vs Intution: Loud vs Quite
+— Childhood
+— Dance
