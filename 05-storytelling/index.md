@@ -12,6 +12,7 @@ by Sara Julie Frajtová
 - Download [the slides](assets/surname-title-slides.pdf) <!-- Link to your slides: PDF, Figma, etc. --> / to be added
 - Watch [the video](…) (audio + slides) / to be added
 - View [the process](process.md) <!-- Preparation, show and tell your process; think, case study. -->
+  
 
 
 
