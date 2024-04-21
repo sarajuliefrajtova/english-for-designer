@@ -9,10 +9,11 @@ by Sara Julie Frajtová
 
 ## Choosing a topic
 From the very beginning I was convinced that I wanted to communicate something what has been deeply rooted within myself for a long time.
-But because it's not just rooted in the mind, it's much further down, it only came to the surface when I gave it space. However, many times it has been drowned out by the voice of the mind, by the thousands of thoughts that have eclipsed it.
+But because it's not just rooted in the mind, it's much further down, it only came to the surface when I gave it space. However, many times it has been drowned out by the voice of the mind, by the thousands of thoughts that have eclipsed it. When I let the life flow, which mean when I accept what ever comes to. Only then could I begin to perceive the alignment. I don't know exactly when I get to that state. But I have found that the only thing that prevents me from being in this state all the time is my mind. 
 
 
 ## First ideas & topic connections
+During
 - Full responsibility for each and every action
 - Inner power
 - Flow
