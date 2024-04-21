@@ -8,6 +8,9 @@ by Sara Julie Frajtová
 — Read [the article](./index.md) <!-- index.md -->
 
 ## Choosing a topic
+From the very beginning I was convinced that I wanted to communicate something what has been deeply rooted within myself for a long time.
+But because it's not just rooted in the mind, it's much further down, it only came to the surface when I gave it space. However, many times it has been drowned out by the voice of the mind, by the thousands of thoughts that have eclipsed it.
+
 
 ## First ideas & topic connections
 - Full responsibility for each and every action
@@ -25,3 +28,4 @@ by Sara Julie Frajtová
 - Mind vs Intution: Loud vs Quite
 - Childhood
 - Dance
+- Flow of the sound, accept what the next sound brings and based on that creat the movement
