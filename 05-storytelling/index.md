@@ -1,8 +1,9 @@
-# Working Title Goes Here
+# Creator or victim of life? #
+## Let yourself be carried along by the river (music) of _Life_. ##
 
-by Name Surname
+by Sara Julie Frajtová
 
-26 March 2024
+21 April 2024
 
 - Download [the audio](…) <!-- Optional audio-only — think podcast. -->
 - Download [the slides](assets/surname-title-slides.pdf) <!-- Link to your slides: PDF, Figma, etc. -->
