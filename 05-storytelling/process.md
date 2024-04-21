@@ -5,7 +5,7 @@ by Sara(h) Julie Frajtová
 
 20 April 2024
 
-- Read [the article](./index.md) <!-- index.md -->
+— Read [the article](./index.md) <!-- index.md -->
 
 ## Process
 
