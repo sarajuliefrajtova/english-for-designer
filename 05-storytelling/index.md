@@ -60,3 +60,5 @@ When my mom told me the news, it affected me profoundly. Mom also shared with me
 
 
 #### Let others decide for me.
+So I left the world of aerobics for good. I tried other sports. Eventually, though, my path led me to competitive swimming. Where I stayed for the next 11 years. 
+
