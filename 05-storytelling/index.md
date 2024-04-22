@@ -20,7 +20,7 @@ Let me tell you the story of the realisation. A realisation that brought about i
 
 _Maybe this story will open another imaginary door for some of you._
 
-> [NOTE!]
+> [!NOTE]
 > Insert here a rhetorical question for the audience
 _**Delete or edit somehow?: Music and dance. Since my childhood both them have been an indispensable part of my life. I have**_
 
