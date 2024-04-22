@@ -64,5 +64,5 @@ So I left the world of aerobics for good. I tried other sports. Eventually, thou
 
 I met precious friends with whom I still have strong relationships. Here, however, my nature showed itself. The nature of self-distrust. I thought it would be better to let others decide for me. I believed it was the only way others would accept me. I was afraid to fully express myself. Even though none of my friends would judge me. I was a victim of my own fear. A fear that was rooted in my past experiences. 
 
-At the time, I wasn't aware of these wounds from the past. A friend of mine once told me: “_You always make decisions based on others. You don't have a mind of your own._”. I felt betrayed at the moment. But she was correct. I had lost the power to fully express my being. I lost that strong inner voice. That voice, that light that everyone carries within them. 
+At the time, I wasn't aware of these wounds from the past. A friend of mine once told me: “_You always make decisions based on others. You don't have a mind of your own._”. I felt betrayed at the moment. But she was correct. I had lost the power to fully express my being. I lost that strong inner voice. That voice, that light which everyone carries within them. 
 
