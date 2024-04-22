@@ -27,7 +27,7 @@ _Maybe this story will open another imaginary door for some of you._
 > Delete or edit somehow?: Music and dance. Since my childhood both them have been an indispensable part of my life. I have
 
 #### Music.
-Feeling. The feeling of an invisible and indescribable. An energy passing through your whole body, a gentle ‘guide’. A guide that accompanies you with every note of the music, shaping your body into a different position. With every hundredth of a second.
+Feeling. The feeling of an invisible and indescribable energy. An energy passing through your whole body, a gentle ‘guide’. A guide that accompanies you with every note of the music, shaping your body into a different position. With every hundredth of a second.
 
 If you let the music flow. If you don't evaluate it in any way, it permeates through your ears and into your mind. There it dissolves any thought. It passes on into your whole body. You don't have to know the music, you don't have to know the coming note. If you are fully aware of the tone at the moment, the music will guide you. It becomes your imaginary fellow dancer. But at the same time you become the creator. The creator of every movement of your body. A movement that is in complete synergy with the rhythm of the music. 
 
