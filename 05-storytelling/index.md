@@ -44,4 +44,6 @@ My parents always encouraged me to be involved in sports. One of them was gymnas
 
 I had faith that here I would be able to fuse music with movement. 
 
+It was different than I imagined, though.
+
 
