@@ -42,4 +42,6 @@ It was quite late night at New Year's celebration. My parents and their friends 
 #### Separtion.
 My parents always encouraged me to be involved in sports. One of them was gymnastic aerobics. Aerobics was actually the first sport I did at a competitive level. I devoted myself to it from the age of 5 to 8. For those who have never encountered this sport before. Gymnastic aerobics competes individually or in a group. The aim of the performance is to deliver a competitive routine to the accompaniment of music. The competition routine requires static and dynamic strength, agility and proper coordination. 
 
+I had faith that here I would be able to fuse music with movement. 
+
 
