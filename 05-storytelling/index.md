@@ -59,7 +59,7 @@ At last, the day of relief has come — the end of aerobics. But also. The day o
 When my mom told me the news, it affected me profoundly. Mom also shared with me her reaction — she knew I could hear the music.
 
 
-#### Let others decide for me.
+#### Let Others Decide For Me.
 So I left the world of aerobics for good. I tried other sports. Eventually, though, my path led me to competitive swimming. Where I stayed for the next 11 years. I have learned a lot. I've changed a lot. During this period of my life.
 
 I met precious friends with whom I still have strong relationships. Here, however, my nature showed itself. The nature of self-distrust. I thought it would be better to let others decide for me. I believed it was the only way others would accept me. I was afraid to fully express myself. Even though none of my friends would judge me. I was a victim of my own fear. A fear that was rooted in my past experiences. 
