@@ -20,9 +20,9 @@ Let me tell you the story of the realisation. A realisation that brought about i
 
 _Maybe this story will open another imaginary door for some of you._
 
-**Insert here a rhetorical question for the audience**
+_**Insert here a rhetorical question for the audience**
 
-**Delete or edit somehow?: Music and dance. Since my childhood both them have been an indispensable part of my life. I have**
+**Delete or edit somehow?: Music and dance. Since my childhood both them have been an indispensable part of my life. I have**_
 
 #### Music.
 The feeling of an invisible and indescribable energy passing through your whole body, a gentle ‘guide’. A guide that accompanies you with every note of the music, shaping your body into a different position with every hundredth note.
