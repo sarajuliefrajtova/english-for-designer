@@ -46,4 +46,4 @@ I had faith that here I would be able to fuse music with movement.
 
 It was different than I imagined, though.
 
-
+I lost the freedom of movement. I had to follow exactly what I was told. If didn't, I failed. I was sidelined. With every practice I lost my excitement. The initial passion of connecting with the music through the body. 
