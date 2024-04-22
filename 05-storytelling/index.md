@@ -54,4 +54,4 @@ Before every practice, my body was writhed with fear. Intense cramps went throug
 
 I wished to dance with the music according to my own feelings. Free. To create in the moment. I wasn't able to learn the steps by heart, according to my coach, I couldn't. 
 
-At last the day of relief has come — the end of aerobics. But also. The day of losing self-confidence. A day of losing faith that I'm competent to do what I enjoy most. 
+At last the day of relief has come — the end of aerobics. But also. The day of losing self-confidence. A day of losing faith that I'm competent to do what I enjoy most. The coach said to my mom, “Sarah can't hear the music.”.
