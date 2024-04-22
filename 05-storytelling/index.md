@@ -53,3 +53,5 @@ I lost the freedom of movement. I had to follow exactly what I was told. If didn
 Before every practice, my body was writhed with fear. Intense cramps went through my stomach. With each arrival home from practice, I finally felt relief. My body was giving me a distinct clue. I had lied to my parents. I was unable to honestly convey my wishes. The wish to quit this sport. I was too young. I didn't want to disappoint. 
 
 I wished to dance with the music according to my own feelings. Free. To create in the moment. I wasn't able to learn the steps by heart, according to my coach, I couldn't. 
+
+At last the day of relief has come. But also. The day of losing self-confidence. A day of losing faith that I'm competent to do what I enjoy most. 
