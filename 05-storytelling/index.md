@@ -66,3 +66,5 @@ I met precious friends with whom I still have strong relationships. Here, howeve
 
 At the time, I wasn't aware of these wounds from the past. A friend of mine once told me: “_You always make decisions based on others. You don't have a mind of your own._”. I felt betrayed back then. But she was correct. I had lost the ability to fully express my being. I lost that inner power. That voice, that light which everyone carries within them. 
 
+
+#### You really want to carry on like this?
