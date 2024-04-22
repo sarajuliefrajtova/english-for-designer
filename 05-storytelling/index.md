@@ -68,3 +68,4 @@ At the time, I wasn't aware of these wounds from the past. A friend of mine once
 
 
 #### You really want to carry on like this?
+Time passed. High school has arrived on the scene. All my fears hit me even harder. My mind became my worst enemy. To suppress my needs, I became a perfectionist. In all areas of life - school, home, sports. In my mind above all. By being perfect, I believed I would be successful. But I didn't realize one simple equation. I was doing it at the expense of my health - mental and physical. I was doing none of this for myself, but for others. To prove that I was capable. To prove what? That I'm capable of hurting myself? That I am capable of not being an authentic version of myself? That I'm capable of avoiding my life's desires?
