@@ -50,4 +50,4 @@ It was different than I imagined, though.
 
 I lost the freedom of movement. I had to follow exactly what I was told. If didn't, I failed. I was sidelined. With every practice I lost my excitement. The initial enthusiasm for connecting with music through the body has faded. 
 
-Before every practice, my body was writhed with fear. Intense cramps went through my stomach. I cried. With each arrival home from practice, I finally felt relief. My body was giving me a distinct clue. I had lied to my parents. I was unable to honestly convey my wishes. The wish to quit this sport. I was too young. I didn't want to disappoint. 
+Before every practice, my body was writhed with fear. Intense cramps went through my stomach. With each arrival home from practice, I finally felt relief. My body was giving me a distinct clue. I had lied to my parents. I was unable to honestly convey my wishes. The wish to quit this sport. I was too young. I didn't want to disappoint. 
