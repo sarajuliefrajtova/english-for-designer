@@ -22,7 +22,7 @@ _Maybe this story will open another imaginary door for some of you._
 
 > [!NOTE]
 > Insert here a rhetorical question for the audience
-
+> [!NOTE]
 > Delete or edit somehow?: Music and dance. Since my childhood both them have been an indispensable part of my life. I have
 
 #### Music.
