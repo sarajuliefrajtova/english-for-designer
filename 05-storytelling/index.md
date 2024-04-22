@@ -56,4 +56,4 @@ I wished to dance with the music according to my own feelings. Free. To create i
 
 At last, the day of relief has come — the end of aerobics. But also. The day of losing self-confidence. A day of losing faith that I'm competent to do what I enjoy most. The coach said to my mom, “_Sara can't hear the music._”.
 
-When my mom told me the news, it affected me profoundly. Mom also shared with me her reaction - she knew I could hear the music.
+When my mom told me the news, it affected me profoundly. Mom also shared with me her reaction — she knew I could hear the music.
