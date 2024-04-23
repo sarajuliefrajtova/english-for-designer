@@ -89,4 +89,4 @@ Thanks to my friends I made a decision. Decision to study this college. Deep dee
 
 I posed questions like: “_What if it doesn't live up to my expectations?“, “What if I don’t do it for a living?”, “What if…_”.
 
-One of my friends told me: “_If you want it. If you have the possibility. Do it._“. 
+Finally, one of my friends said the words that made me make this decision.
