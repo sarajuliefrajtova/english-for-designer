@@ -76,3 +76,4 @@ My mind, my body was shroud in an opaque fabric. With all the joy and desires hi
 
 
 #### Discovery.
+I graduated from high school and moved on. I continued to do what life had offered me. What about my previous fears? A lot of them disappeared. Or maybe not quite. Maybe they were just hiding under a skinny blanket.
