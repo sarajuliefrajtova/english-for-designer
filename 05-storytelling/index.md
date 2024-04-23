@@ -89,7 +89,9 @@ Finally, one of my friends spoke to me. She told me the words. Those words led m
 
 First year of my studies. I put a little bit more on my plate. Way more I thought I could handle. But, _somehow_ I was able to carry its weight. 
 
-Do you why? I let things flow. It doesn't mean I was lazy. I knew that everything I was doing, will be in accordance with life. I was doing the best I could. I didn't do things to the point of exhaustion. That wouldn't have been beneficial. Sometimes the times may require it. But if we do it endlessly, we destroy ourselves. We destroy our potential. We will believe that this is the only path we can take. But we will not realize that we are only doing it against ourselves. We don't value ourselves. We don't want to come out of suffering, even though deep down we want to. We become victims. 
+Do you know why?
+
+I let things flow. It doesn't mean I was lazy. I knew that everything I was doing, will be in accordance with life. I was doing the best I could. I didn't do things to the point of exhaustion. That wouldn't have been beneficial. Sometimes the times may require it. But if we do it endlessly, we destroy ourselves. We destroy our potential. We will believe that this is the only path we can take. But we will not realize that we are only doing it against ourselves. We don't value ourselves. We don't want to come out of suffering, even though deep down we want to. We become victims. 
 
 I was looking forward to the second year. However, this joy began to fade during January. I was sinking deeper again. Perfectionism, my familiar friend, returned again. What I had considered unimportant in the first year now became the focus of my attention. Everything became my focus. It was too much. The volume of things hadn't changed much. Only my perception changed. This period was not easy. But eventually, during the summer, everything was corrected. 
 
