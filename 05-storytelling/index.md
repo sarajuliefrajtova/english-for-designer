@@ -67,7 +67,7 @@ I met precious friends with whom I still have strong relationships. Here, howeve
 At the time, I wasn't aware of these wounds from the past. A friend of mine once told me: “_You always make decisions based on others. You don't have a mind of your own._”. I felt betrayed back then. But she was correct. I had lost the ability to fully express my being. I lost that inner power. That voice, that light which everyone carries within them. 
 
 
-#### You really want to carry on like this?
+#### Perfect.
 Time passed. High school has arrived on the scene. All my fears hit me even harder. My mind became my worst enemy. To suppress my needs, I became a perfectionist. In all areas of life — school, home, sports etc. In my mind above all. By being _perfect_, I believed I would be successful. But I didn't realize one simple equation. I was doing it at the expense of my health — mental and physical. I was doing none of this for myself, but for others. To prove that I was capable. To prove what? That I'm capable of hurting myself? That I am capable of not being an authentic version of myself? That I'm capable of avoiding my life's desires? That I'm not responsible for my own life? 
 
 I let my fears take over.
@@ -75,3 +75,4 @@ I let my fears take over.
 My mind, my body was shroud in an opaque fabric. With all the joy and desires hidden behind the curtain. 
 
 
+#### You really want to carry on like this?
