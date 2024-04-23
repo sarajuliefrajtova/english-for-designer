@@ -89,4 +89,6 @@ Thanks to my friends I made a decision. Decision to study this college. Deep dee
 
 I posed questions like: “_What if it doesn't live up to my expectations?“, “What if I don’t do it for a living?”, “What if…_”.
 
-Finally, one of my friends said the words that made me make this decision.
+Finally, one of my friends spoke to me. She told me the words. Those words led me to my final decision.
+
+
