@@ -23,8 +23,6 @@ _Maybe this story will open another imaginary door for some of you._
 > [!NOTE]
 > Insert here a rhetorical question for the audience
 
-> [!NOTE]
-> Delete or edit somehow?: Music and dance. Since my childhood both them have been an indispensable part of my life. I have
 
 #### Music.
 Feeling. The feeling of an invisible and indescribable energy. An energy passing through your whole body, a gentle ‘guide’. A guide that accompanies you with every note of the music, shaping your body into a different position. With every hundredth of a second.
