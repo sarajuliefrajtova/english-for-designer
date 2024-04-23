@@ -95,3 +95,4 @@ I was looking forward to the second year. However, this joy began to fade during
 
 Third year, and there it is. Once again — a delightful entry into a new and final stage of study. However... If you don't deal with something, it'll still be there. It'll give you a gentle tap on the back. If you ignore him, it'll squeeze you tighter. Lastly, you'll be face to face. 
 
+This year was probably the most challenging but also the best of this three-year journey.
