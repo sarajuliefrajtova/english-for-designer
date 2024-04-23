@@ -91,4 +91,4 @@ I posed questions like: “_What if it doesn't live up to my expectations?“, �
 
 Finally, one of my friends spoke to me. She told me the words. Those words led me to my final decision.
 
-
+First year of my studies. I was able to carry its weight. I knew that everything I was doing will be in accordance with life. Do you know why? I let things go. Doesn't mean I was lazy. I knew that whatever I did would be consistent with life. I was doing the best I could. I didn't do things to the point of exhaustion. That wouldn't have been beneficial. Sometimes the times may require it. But if we do it endlessly, we destroy ourselves. We destroy our potential. We will believe that this is the only path we can take. But we will not realize that we are only doing it against ourselves. We don't value ourselves. We don't want to come out of suffering, even though deep down we want to. We become victims. 
