@@ -93,5 +93,5 @@ First year of my studies. I was able to carry its weight. Do you know why? I let
 
 I was looking forward to the second year. However, this joy began to fade during January. I was sinking deeper again. Perfectionism, my familiar friend, returned again. What I had considered unimportant in the first year now became the focus of my attention. Everything became my focus. It was too much. The volume of things hadn't changed much. Only my perception changed. This period was not easy. But eventually, during the summer, everything was corrected. 
 
-Third year, and there it is. Once again — a delightful entry into a new and final stage of study. However... If you don't deal with something, it'll still be there.
+Third year, and there it is. Once again — a delightful entry into a new and final stage of study. However... If you don't deal with something, it'll still be there. It'll give you a gentle tap on the back. If you ignore him, it'll squeeze you tighter. Lastly, you'll be face to face. 
 
