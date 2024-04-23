@@ -78,5 +78,7 @@ My mind, my body was shroud in an opaque fabric. With all the joy and desires hi
 #### Discovery.
 I graduated from high school and moved on. I continued to do what life had offered me. What about my previous fears? A lot of them disappeared. Or maybe not quite. Maybe they were just hiding under a skinny blanket.
 
-After 4 years of studying in field IT, in high school, I wanted a change. A change that would lead me closer to what fulfills me. To not just follow what my mind told me to do. Ever since I was a little girl, besides dancing, I also loved design. Designing all sorts of things. But mostly interiors and clothes. 
+After 4 years of studying in field IT, in high school, I wanted a change. A change that would lead me closer to what fulfills me. Not just follow the loud voice of the mind.
+
+Ever since I was a little girl, besides dancing, I also loved design. Designing all sorts of things. But mostly interiors and clothes. 
 Don't take this on some pro level. I  took a tablet. I downloaded some 3D interior design app. And the clock was ticking - 1 hour, 2, 3... I could have spent all day on it. Video games. Well, that was another way to create. And one of them was The Sims. A game I bought just to design houses. There were plenty of other games where I could live out my desire to create. It was my almost daily joy.
