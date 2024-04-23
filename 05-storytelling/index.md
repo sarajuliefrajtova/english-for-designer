@@ -82,3 +82,11 @@ After 4 years of studying in field IT, in high school, I wanted a change. A chan
 
 Ever since I was a little girl, besides dancing, I also loved design. Designing all sorts of things. But mostly, interiors and clothes. 
 Don't get it on some pro level. I just took a tablet. I downloaded some 3D interior design app. And the clock was ticking — 1 hour, 2, 3... I could have spent all day on it. Well, there was another way to create. Video games. And one of them was The Sims 3 & 4. A game I bought just to design houses. But of course, there were plenty of other games. Digital spaces where I could live out my desire to create. It was my daily joy.
+
+
+
+Thanks to my friends I made a decision. Decision to study this college. Deep deep down I knew, I should chose this path. There was that tiny little voice. That little guide which didn’t push me anywhere. Just gently suggesting the steps I should take. But, I was under the influence of my fears. Again. 
+
+I posed questions like: “_What if it doesn't live up to my expectations?“, “What if I don’t do it for a living?”, “What if…_”.
+
+One of my friends told me: “_If you want it. If you have the possibility. Do it._“. 
