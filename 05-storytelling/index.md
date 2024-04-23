@@ -81,15 +81,13 @@ After 4 years of studying in field IT, in high school, I wanted a change. A chan
 Ever since I was a little girl, besides dancing, I also loved design. Designing all sorts of things. But mostly, interiors and clothes. 
 Don't get it on some pro level. I just took a tablet. I downloaded some 3D interior design app. And the clock was ticking — 1 hour, 2, 3... I could have spent all day on it. Well, there was another way to create. Video games. And one of them was The Sims 3 & 4. A game I bought just to design houses. But of course, there were plenty of other games. Digital spaces where I could live out my desire to create. It was my daily joy.
 
-
-
 Thanks to my friends I made a decision. Decision to study this college. Deep deep down I knew, I should chose this path. There was that tiny little voice. That little guide which didn’t push me anywhere. Just gently suggesting the steps I should take. But, I was under the influence of my fears. Again. 
 
 I posed questions like: “_What if it doesn't live up to my expectations?“, “What if I don’t do it for a living?”, “What if…_”.
 
 Finally, one of my friends spoke to me. She told me the words. Those words led me to my final decision.
 
-First year of my studies. I was able to carry its weight. Do you know why? I let things go. Doesn't mean I was lazy. I knew that everything I was doing will be in accordance with life. I was doing the best I could. I didn't do things to the point of exhaustion. That wouldn't have been beneficial. Sometimes the times may require it. But if we do it endlessly, we destroy ourselves. We destroy our potential. We will believe that this is the only path we can take. But we will not realize that we are only doing it against ourselves. We don't value ourselves. We don't want to come out of suffering, even though deep down we want to. We become victims. 
+First year of my studies. Although I put a little more on my plate. I was able to carry its weight. Do you know why? I let things go. Doesn't mean I was lazy. I knew that everything I was doing will be in accordance with life. I was doing the best I could. I didn't do things to the point of exhaustion. That wouldn't have been beneficial. Sometimes the times may require it. But if we do it endlessly, we destroy ourselves. We destroy our potential. We will believe that this is the only path we can take. But we will not realize that we are only doing it against ourselves. We don't value ourselves. We don't want to come out of suffering, even though deep down we want to. We become victims. 
 
 I was looking forward to the second year. However, this joy began to fade during January. I was sinking deeper again. Perfectionism, my familiar friend, returned again. What I had considered unimportant in the first year now became the focus of my attention. Everything became my focus. It was too much. The volume of things hadn't changed much. Only my perception changed. This period was not easy. But eventually, during the summer, everything was corrected. 
 
