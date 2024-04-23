@@ -75,4 +75,4 @@ I let my fears take over.
 My mind, my body was shroud in an opaque fabric. With all the joy and desires hidden behind the curtain. 
 
 
-#### You really want to carry on like this?
+#### Discovery.
