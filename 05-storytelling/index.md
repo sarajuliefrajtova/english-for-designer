@@ -97,7 +97,9 @@ Laziness? No. Not at all.
 
 I did the best I could. Always. 
 
-This doesn't imply acting to the of point exhaustion. It means to _be_.
+This doesn't imply acting to the of point exhaustion.
+
+It means to _be_.
 
 To be in harmony with the music. With life. Shape every movement. The movement of the dance. The dance of the now. 
 
