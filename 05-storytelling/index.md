@@ -101,7 +101,7 @@ This doesn't imply acting to the of point exhaustion.
 
 It means to _be_.
 
-To be in harmony with the music. With life. Shape every movement. The movement of the dance. The dance of the now. 
+To be in harmony with the music. With life. Shape every movement. The movement of the dance. The dance of the _now_. 
 
 If we experience the music. _Clearly_. If we are awake. We are able to let the music pervade. Pervade through the body. Let each and every note of the music pervade. To be a musical instrument. An instrument that is tuned to the rhythm of life. An instrument that is in the hands of life. An instrument that is like a conductor. A substance through which the current of life flows. Through which every atom in space goes.
 
