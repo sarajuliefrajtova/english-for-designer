@@ -87,6 +87,8 @@ I posed questions like: “_What if it doesn't live up to my expectations?“, �
 
 Finally, one of my friends spoke to me. She told me the words. Those words led me to my final decision.
 
+
+
 First year of my studies. I put a little bit more on my plate. Way more. But, _somehow_ I was able to carry its weight. 
 
 How?
