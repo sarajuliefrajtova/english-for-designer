@@ -91,14 +91,20 @@ First year of my studies. I put a little bit more on my plate. Way more. But, _s
 
 How?
 
-I let things flow.
+By letting things _flow_. 
 
-Laziness? No, no at all. I knew that everything I was doing, will be in accordance with life. I was doing the best I could. I didn't do things to the point of exhaustion. That wouldn't have been beneficial. Sometimes the times may require it. But if we do it endlessly, we destroy ourselves. We destroy our potential. We will believe that this is the only path we can take. But we will not realize that we are only doing it against ourselves. We don't value ourselves. We don't want to come out of suffering, even though deep down we want to. We become victims. 
+Laziness? No. Not at all.
 
-I was looking forward to the second year. However, this joy began to fade during January. I was sinking deeper again. Perfectionism, my familiar friend, returned again. What I had considered unimportant in the first year now became the focus of my attention. Everything became my focus. It was too much. The volume of things hadn't changed much. Only my perception changed. This period was not easy. But eventually, during the summer, everything was corrected. 
+I did the best I could. Always. 
 
-Third year, and there it is. Once again — a delightful entry into a new and final stage of study. However... If you don't deal with something, it remains there. It'll give you a gentle tap on the back. If you ignore him, it'll squeeze you tighter. Lastly, you'll be face to face. 
+This doesn't imply acting to the of point exhaustion. It means to _be_.
 
-This year has been probably the most challenging, but also the best of this three-year journey.
+To be in harmony with the music. With life. Shape every movement. The movement of the dance. The dance of the now. 
 
-I would call it a period of personal transformation. 
+If we experience the music. Clearly. If we are awake. We are able to let the music permeate. Permeate it through our body. Let each and every note of the music permeate. To be a musical instrument. An instrument that is tuned to the rhythm of life. An instrument that is in the hands of life. An instrument that is like a conductor. A substance through which the current of life flows. Through which every atom in space goes. Infinite space. The substance. Space itself. 
+
+
+
+
+
+
