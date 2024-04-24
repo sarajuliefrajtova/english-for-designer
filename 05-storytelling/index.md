@@ -103,7 +103,7 @@ It means to _be_.
 
 To be in harmony with the music. With life. Shape every movement. The movement of the dance. The dance of the now. 
 
-If we experience the music. _Clearly_. If we are awake. We are able to let the music permeate. Permeate it through our body. Let each and every note of the music permeate. To be a musical instrument. An instrument that is tuned to the rhythm of life. An instrument that is in the hands of life. An instrument that is like a conductor. A substance through which the current of life flows. Through which every atom in space goes. Infinite space. The substance. Space itself. 
+If we experience the music. _Clearly_. If we are awake. We are able to let the music permeate. Permeate through our body. Let each and every note of the music permeate. To be a musical instrument. An instrument that is tuned to the rhythm of life. An instrument that is in the hands of life. An instrument that is like a conductor. A substance through which the current of life flows. Through which every atom in space goes. Infinite space. The substance. Space itself. 
 
 
 
