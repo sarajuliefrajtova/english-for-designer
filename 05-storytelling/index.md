@@ -117,6 +117,6 @@ Dark space. Forgotten space. A Black Hole.
 
 Nothing.
 
-Our mind has engulf us. We let ourselves engulfed. We gave permission. 
+Our mind engulfed us. We let ourselves engulfed. We gave permission. 
 
 
