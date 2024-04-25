@@ -121,6 +121,6 @@ Our mind engulfed us. We let ourselves engulfed. We gave a _permission_.
 
 We're begging now. For a help, in ourselves. With kept voice. With a voice kept deep. Deep, in a dark space. 
 
-We've lost the connection. The connection to ourselves. We collapsed into ourselves. We are enveloped. Covered in a heavy fabric. A fabric that with every voice... A voice crying for help. Gently lifts up. For a moment. A tiny moment. And then... Then, with its weight, it envelops the entrance again. The entrance to the space. A space that has swallowed itself. Whose light has gone out. 
+We've lost the connection. The connection to ourselves. We collapsed into ourselves. We are enveloped. Covered in a heavy fabric. A fabric that with every voice... A voice crying for help. Gently lifts up. For a moment. A tiny moment. And then... Then, with its weight, it envelops the entrance again. The entrance to the space. A space that has swallowed itself. Whose light has died. 
 
 
