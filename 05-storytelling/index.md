@@ -107,7 +107,7 @@ If we experience the music. _Clearly_. If we are awake. We are able to let the m
 
 Infinite space. The substance. Space itself. 
 
-But if we can cross the border. That imaginary border. The war front. The line where they touch. The two of them. Seemingly inseparable. _Us_ and the mind. _Being_ and mind. Consciousness. And the _Mind_.
+But if we can cross the border. That imaginary border. The war front. The line where _they_ touch. The _two_ of them. Seemingly inseparable. _Us_ and the mind. _Being_ and mind. Consciousness. And the _Mind_.
 
 If we yield the space. If we yield the space to mind, only. Unconsciously. It becomes dominant. It expands. It advances. It closes off the infinite space. It encloses it on all sides. With every breath, it narrows. The space. It devoures itself. It collapses. Into itself. Sinking deeper. 
 Dark space. Forgotten space. A Black Hole. 
