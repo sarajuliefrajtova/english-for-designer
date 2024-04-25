@@ -117,7 +117,7 @@ Dark space. Forgotten space. A Black Hole.
 
 Nothing.
 
-Our mind engulfed us. We let ourselves engulfed. We gave a permission. 
+Our mind engulfed us. We let ourselves engulfed. We gave a _permission_. 
 
 We're calling now. For a help. In ourselves. With kept voice. With a voice kept deep. Deep, in a dark space. 
 
