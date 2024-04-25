@@ -119,6 +119,6 @@ Nothing.
 
 Our mind engulfed us. We let ourselves engulfed. We gave a _permission_. 
 
-We're calling now. For a help in ourselves. With kept voice. With a voice kept deep. Deep, in a dark space. 
+We're calling now. For a help, in ourselves. With kept voice. With a voice kept deep. Deep, in a dark space. 
 
 
