@@ -107,7 +107,7 @@ If we experience the music. _Clearly_. If we are awake. We are able to let the m
 
 Infinite space. The substance. Space itself. 
 
-But we can cross the border. That imaginary border. The war front. The line where they touch. The two of them. Seemingly inseparable. Us and the mind. Being and mind. Consciousness. And mind.
+But we can cross the border. That imaginary border. The war front. The line where they touch. The two of them. Seemingly inseparable. _Us_ and the mind. _Being_ and mind. Consciousness. And the _Mind_.
 
 
 
