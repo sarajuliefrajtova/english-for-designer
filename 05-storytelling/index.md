@@ -111,6 +111,7 @@ But we can cross the border. That imaginary border. The war front. The line wher
 
 If we yield the space. If we yield the space to mind, only. Unconsciously. It becomes dominant. It expands. It advances. It closes off the infinite space. It encloses it on all sides. With every breath, it narrows. The space. It devoures itself. It collapses. Into itself. Sinking deeper. 
 Dark space. Forgotten space. A Black Hole. 
+
 Nothing.
 
 
