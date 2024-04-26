@@ -121,7 +121,9 @@ Our mind engulfed us. We let ourselves engulfed. We gave a _permission_.
 
 We're begging now. For a help, in ourselves. With kept voice. With a voice kept deep. Deep, in a dark space. 
 
-We've lost the connection. The connection to ourselves. We collapsed into ourselves. We are veiled. Covered in a heavy fabric. A fabric that with every voice... A voice crying for help. Gently raises. For a moment. A tiny moment. And then... Then, with its weight, it veils the entrance again. The entrance to the space. A space that has swallowed itself. Whose light has died. 
+We've lost the connection. The connection to ourselves. We collapsed into ourselves. We are veiled. Covered in a heavy fabric. A fabric that with every voice... A voice crying for help. Gently raises. For a moment. A tiny moment. And then... Then, with its weight, it veils the entrance again. The entrance to the space. A space that has swallowed itself. Whose light, has died. 
+
+The desire to shine. To shine for the eyes of others. A strong desire that engulfed us. The desire to embrace the infinity of the universe with its rays. The light that we have forfeit. Too much light. Too much light, we have drained. Light. Darkness. The light we gave away.
 
 
 
