@@ -141,4 +141,6 @@ By choice.
 
 With our _own_ permission. 
 
-That something. That something so subtle. Elusive to the senses. For a moment. For a tiny moment, it gently illuminated that space. A dark space. An infinite space. It shone like a firefly in the middle of the night. Hope.
+That something. That something so subtle. Elusive to the senses. For a moment. For a tiny moment, it gently illuminated that space. A dark space. An infinite space. It shone like a firefly in the middle of the night. 
+
+Hope.
