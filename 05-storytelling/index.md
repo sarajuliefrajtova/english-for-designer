@@ -125,5 +125,5 @@ We've lost the connection. The connection to ourselves. We collapsed into oursel
 
 The desire to shine. To shine for the eyes of others. A strong desire that engulfed us. The desire to embrace the infinity of the universe with its rays. The light that we have forfeit. Too much light. Too much light, we have drained. Light. Darkness. The light we gave away.
 
-
+The darkness within us. It has swallowed us. There is nothing left. No ray — inside or outside. Inside. Or outside, us. 
 
