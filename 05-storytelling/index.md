@@ -131,5 +131,13 @@ We're at the bottom. Deep. Paralyzed. Shrouded in darkness. A darkness that engu
 
 Inert matter. 
 
-But suddenly we sense something. Something subtle. Silence. Our breath, perhaps? Or a heartbeat? Maybe a ray of light? That last ray of light. A ray that gracefully danced its way under the heavy fabric. The cloth under which that space is hidden. The space that hides the burden of the past. Fears. Wounds. Convictions. Unfulfilled desires. Unfulfilled dreams. Our selves. The real _us_. The self we gave up. By choice. With our _own_ permission. 
+But suddenly we sense something. Something subtle. Silence. Our breath, perhaps? Or a heartbeat? Maybe a ray of light? That last ray of light. A ray that gracefully danced its way under the heavy fabric. The cloth under which that space is hidden. The space that hides the burden of the past. Fears. Wounds. Convictions. Unfulfilled desires. Unfulfilled dreams. Our selves. 
+
+The real _us_. 
+
+The self we gave up. 
+
+By choice. 
+
+With our _own_ permission. 
 
