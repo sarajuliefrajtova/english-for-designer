@@ -127,3 +127,9 @@ The desire to shine. To shine for the eyes of others. A strong desire that engul
 
 The darkness within us. It has swallowed us. There is nothing left. No ray — inside or outside. Inside. Or outside, _us_. 
 
+We're at the bottom. Deep. Paralyzed. Shrouded in darkness. A darkness that engulfs us. We are in space. In the space that we are. Which is ourselves. We breathe - heavily. Everything. Everything around us and within us. Everything is so empty. So numb. Without emotion. Without shapes. So unreal. So lost. So meaningless.
+
+Inert matter. 
+
+But suddenly we sense something. Something subtle. Silence. Our breath, perhaps? Or a heartbeat? Maybe a ray of light? That last ray of light. A ray that gracefully danced its way under the heavy fabric. The cloth under which that space is hidden. The space that hides the burden of the past. Fears. Wounds. Convictions. Unfulfilled desires. Unfulfilled dreams. Our selves. The real _us_. The self we gave up. By choice. With our _own_ permission. 
+
