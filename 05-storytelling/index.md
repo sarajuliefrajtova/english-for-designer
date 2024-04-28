@@ -156,3 +156,6 @@ _Forever_.
 But we _are_. The rest is only temporary. The rest are objects. Whether alive or non-alive. Objects that come into being and disappear. That come and go. That are born, and _die_.
 
 Only we _are_. Each of us _is_. And that's all we _are_. The only thing that's certain. As long as we _are_.
+
+We are the dance. The dance that is part of the ever-changing music. Life. We are the dance that understands fluidity. The fluidity of the external while keeping the constancy of the internal. It becomes a listener to the music. All the notes of music. All the tones all around us. And all that flows through. That is, through us.
+
