@@ -159,3 +159,5 @@ Only we _are_. Each of us _is_. And that's all we _are_. The only thing that's c
 
 We are the dance. The dance that is part of the ever-changing music. Life. We are the dance that understands fluidity. The fluidity of the external while keeping the constancy of the internal. It becomes a listener to the music. All the notes of music. All the tones all around us. And all that flows through. That is, through us.
 
+The familiar tone. The tone we weren't listening to. The tone we resisted. Music. The music of life. It flows through space. It passes through our ears, entering our minds. And we lie. We lie at the bottom. We gave up. We gave up fighting the music. We gave up the fight with space. With the space of who we are. We gave up the fight with ourselves. We embrace. We embrace the music. We embrace Life itself. 
+
