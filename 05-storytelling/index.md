@@ -152,3 +152,5 @@ All the burdens and joys. The burdens and joys, that we said _yes_ to. _Yes_, to
 Form. The power of form is desire. The desire that form brings. The desire that is compelling to us. The desire that leaves us when we hit the seabed. The desire for _power_. The desire to _acquire_. The desire to _want_. The desire to _be_ something.
 
 _Forever_.
+
+But we are. The rest is only temporary. The rest are objects. Whether alive or non-alive. Objects that come into being and disappear. That come and go. That are born, and die.
