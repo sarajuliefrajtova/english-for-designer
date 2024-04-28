@@ -153,4 +153,4 @@ Form. The power of form is desire. The desire that form brings. The desire that 
 
 _Forever_.
 
-But we are. The rest is only temporary. The rest are objects. Whether alive or non-alive. Objects that come into being and disappear. That come and go. That are born, and die.
+But we _are_. The rest is only temporary. The rest are objects. Whether alive or non-alive. Objects that come into being and disappear. That come and go. That are born, and _die_.
