@@ -147,4 +147,4 @@ A hope.
 
 Realization. The realization of space. The realization of us. The realization of all that space embraces. Everything we identified with. Everything we gave permission for. Everything we chose to become.
 
-All the burdens and joys. The burdens and joys, that we said _yes_ to. _Yes_, to become a part of. Part of this space. Unconsciously. All the burdens and joys. The burdens. And the joys. Suddenly they change. They emerge. They separate. They separate from space. From us. Like a hair. A hair that has lived out its time. Like a hair that is no longer part of us. A dead hair. A simple object. An object in space. An object that is not part of ourselves. 
+All the burdens and joys. The burdens and joys, that we said _yes_ to. _Yes_, to become a part of. Part of this space. Unconsciously. All the burdens and joys. The burdens. And the joys. Suddenly they change. They emerge. They separate. They separate from space. From us. Like a hair. A hair that has lived out its time. Like a hair that is no longer part of us. A dead hair. A simple object. An object in space. An object that is not part of us. 
