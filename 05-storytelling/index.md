@@ -149,6 +149,6 @@ Realization. The realization of space. The realization of us. The realization of
 
 All the burdens and joys. The burdens and joys, that we said _yes_ to. _Yes_, to become a part of. Part of this space. Unconsciously. All the burdens and joys. The burdens. And the joys. Suddenly they change. They emerge. They separate. They separate from space. From us. Like a hair. A hair that has lived out its time. Like a hair that is no longer part of us. A dead hair. A simple object. An object in space. An object that is not part of us. 
 
-Form. The power of form is desire. The desire that form brings. The desire that is inexorable to us. The desire that leaves us when we hit the seabed. The desire for _power_. The desire to _acquire_. The desire to _want_. The desire to _be_ something.
+Form. The power of form is desire. The desire that form brings. The desire that is compelling to us. The desire that leaves us when we hit the seabed. The desire for _power_. The desire to _acquire_. The desire to _want_. The desire to _be_ something.
 
 _Forever_.
