@@ -21,6 +21,7 @@ The bachelor thesis deals with the realization of the design of a digital produc
 
 #### Welcome,
 My name is Sara Julie.
+
 For my bachelor thesis I chose to create a design and implementation of a visual interface for a mobile application for the Museum of Fine Arts Liberec.
 
 One of the reasons why the mobile app option was chosen was the simple wish to design this kind of digital product. This fact became the very first and primary impulse for the choice of the topic of this bachelor thesis.
