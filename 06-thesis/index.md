@@ -149,4 +149,25 @@ In crafting this High-Fidelity prototype, considerable attention was also dedica
 ![Showcase — Account and Pop-Up Notification Window](img/Showcase-Account-LoggedIn-LoggedOut-and-Notifications.png)
 
 ##### Showcase — Homepage (List of Events) and Event Detail
-![Showcase — Account and Pop-Up Notification Window](img/Showcase-Homepage-Events-List-and-Event-Detail.png)
+![Showcase — Homepage (List of Events) and Event Detai](img/Showcase-Homepage-Events-List-and-Event-Detail.png)
+
+##### Showcase — Event Reservation 
+![Showcase — Event Reservation](img/Showcase-Event-Reservation1.png)
+
+##### Showcase — Event Reservation 
+![Showcase — Event Reservation](img/Showcase-Event-Reservation2.png)
+
+##### Showcase — Educational Programs Reservation 
+![Showcase — Educational Programs Reservation](img/Showcase-Education-Programs-Reservation.png)
+
+##### Showcase — Guided Tour (Tours)
+![Showcase — Guided Tour (Tours)](img/Showcase-Guided-Tour-Tours.png)
+
+##### Showcase — Guided Tour (AR)
+![Showcase — Guided Tour (AR)](img/Showcase-Guided-Tour-AR.png)
+
+##### Showcase — News
+![Showcase — News](img/Showcase-News.png)
+
+##### Showcase — Tickets
+![Showcase — Tickets](img/Showcase-Ticket-Sections.png)
