@@ -46,3 +46,8 @@ After acquiring a sufficient theoretical foundation, one that broadened my under
 At the outset of the bachelor's thesis, it was imperative to delineate the specific practical outcome the creation of which this thesis deals with. As previously mentioned, the output of the thesis constitutes a digital product. However, before defining the product, an analysis phase of the gallery's current situation was paramount. This analysis entailed a Desk research approach, involving gathering information primarily through online sources such as internet searches, without the necessity of field visits. This research served to establish a framework of the gallery's current digital landscape and beyond. Drawing from these insights, a preliminary concept for the digital product emerged. This phase entailed sifting through numerous relevant sources, followed by meticulous processing and evaluation of gathered data. Given the nature of the entity as a contributory organization of the Liberec Region, information was sourced not only from the institution's official website and newsletters but also from press conferences.
 
 #### Digital product definition
+Upon completion of the desk research, a preliminary concept for the digital product began to take form.
+
+Defining the product and establishing objectives stand as pivotal starting points in the UX Design process.
+
+This project was self-initiated, thus not commissioned by an official client. While research underpinned the entire endeavor, informing adjustments to my designs to better align with the institution's ideas and needs, the project was significantly shaped by my perception, prior experience, knowledge, and personal vision for the final product.
