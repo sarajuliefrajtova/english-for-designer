@@ -30,3 +30,5 @@ I'd like to note that developing an app for the gallery wasn't initially the int
 
 During 2023, I was actively involved in the development of the application within the _[Česko.Digital](https://en.cesko.digital/)_ community. It is a volunteer organization that brings together volunteers mainly from the IT field who work on digital projects for non-profit organizations, state administration or local government. This community is aware of the problem of obsolescence in the field of digital technologies, which consequently negatively affects the whole society. The community aims to continuously improve this situation. This experience in Česko.Digital became one of the other, secondary impulses for the realization of the bachelor thesis. 
 
+### Theoretical Part
+
