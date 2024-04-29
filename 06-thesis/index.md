@@ -95,4 +95,4 @@ High-Fidelity prototypes were consistently constructed using defined components 
 The Atomic design methodology, conceptualized by designer Brad Frost, presents an approach to UI design and development by delineating the process into a hierarchical structure. Inspired by the principles of chemistry, the methodology draws parallels between atoms, molecules, and organisms. Atoms combine to form molecules, which in turn assemble to create organisms. This analogy underpins the concept of Atomic Design, wherein fundamental elements progressively amalgamate into more intricate structures.
 
 It's common practice to define subatomic elements before defining atomic elements. Subatomic elements encompass styles, such as defining the color palettes, typography, and more.
-[!Subatomic elements — Color Pallete]()
+[!Subatomic elements — Color Pallete](/img/Color-Pallete-Primary-and-Brand-Colors.jpg)
