@@ -186,3 +186,6 @@ The gallery predominantly employs its bespoke font, Reichenberg, in its public c
 
 ##### Mobile App Promotion — App Store, Widgets, Logo etc.
 ![Mobile App Promotion — App Store, Widgets, Logo etc.](img/Mobile-App-Promotion-App-Store.png)
+
+##### Mobile App Promotion — Social Media (Instagram)
+![Mobile App Promotion — App Store, Widgets, Logo etc.](img/Mobile-App-Promotion-Web-Instagram.png)
