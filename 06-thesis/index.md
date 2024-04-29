@@ -19,7 +19,7 @@ The bachelor thesis deals with the realization of the design of a digital produc
 
 ### Introduction
 
-#### Welcome,
+Welcome,
 My name is Sara Julie.
 
 For my bachelor thesis I chose to create a design and implementation of a visual interface for a mobile application for the Museum of Fine Arts Liberec.
