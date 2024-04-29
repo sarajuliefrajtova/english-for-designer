@@ -124,3 +124,8 @@ The final step in defining the Atomic Design System involved delineating the org
 ![Organisms](img/Organisms2.jpg)
 
 Following the design of all components, the next step entailed integrating them into the predetermined structure of each individual page of the application. It's worth noting that this process didn't always unfold in a linear fashion.
+
+#### High-Fidelity Prototyp
+In total, 120 pages (screens) were meticulously crafted for the application, with many featuring scrollable content. Due to the vastness, I'll present only a curated selection here.
+
+In crafting this High-Fidelity prototype, considerable attention was also dedicated to interaction design, i.e. prototyping. The overarching aim of prototyping was to render the application dynamic. The focus of the prototyping phase primarily revolved around implementing fundamental interactions for seamless navigation within the application. This stage didn't entail designing intricate interactions for every page or component. Thus, while this phase didn't entail designing intricate interactions for every page or component, I strived to achieve intuitive transitions between pages and elements when navigating or interacting with specific components.
