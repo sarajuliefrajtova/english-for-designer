@@ -86,6 +86,7 @@ Low-Fidelity wireframes were predominantly created in physical form, utilizing p
 
 However, not all aspects of the application or functionalities required the implementation of Low-Fidelity wireframes, as certain designs were already established during the initial design phase. Conversely, others were incorporated at later stages of the process, contingent upon the continual acquisition of new knowledge aimed at optimizing the application design.
 
+#### UI Design of Mobile Applications
 The UI design process could be deemed the most time-intensive phase. A crucial part of crafting High-Fidelity prototypes also involved establishing the UI library, which could serve as the cornerstone of the design system.
 
 High-Fidelity prototypes were consistently constructed using defined components in the final phase. The Atomic design methodology was selected for implementing these prototypes. This methodology, owing to its inherent structure, facilitated automatic updates across all components affected by changes made to their foundational elements. However, this approach wasn't initially adopted, as discussed in the section addressing the application's initial design phase, resulting in some time inefficiencies but also valuable lessons learned.
