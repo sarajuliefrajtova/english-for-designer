@@ -40,3 +40,4 @@ In my hometown of Liberec, there's an art gallery renowned across the Czech Repu
 Within the theoretical segment of the thesis, I delve into UX and UI methodologies crucial for crafting a solid user experience and interface. Emphasis is placed on establishing a UI library founded upon the principles of Atomic design methodology. Additionally, I elaborate on the principles and significance of interaction design. Furthermore, I explore the intricacies of product design, specifically tailored to mobile applications as a subset of digital products. Among others, I examine the contemporary approach of museums towards digital products and services.
 
 ### Practical Part
+After acquiring a sufficient theoretical foundation, one that broadened my understanding and paved the way for practical application, I embarked on the practical phase.
