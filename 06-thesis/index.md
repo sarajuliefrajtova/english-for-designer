@@ -173,7 +173,7 @@ In crafting this High-Fidelity prototype, considerable attention was also dedica
 ![Showcase — Tickets](img/Showcase-Ticket-Sections.png)
 
 #### Mobile App Promotion
-The gallery predominantly employs its bespoke font, Reichenberg, in its public communications, including the gallery logo and the internal orientation system. Therefore, incorporating this font in the promotion of the mobile app seems fitting. However, given Reichenberg's lack of legibility and insufficiently contrast under certain conditions, an alternative version was proposed. In the app itself, the chosen typeface is Plus Jakarta Sans, a sans-serif font available in various weights, making it more versatile. Hence, Plus Jakarta Sans was utilized in the second (alternative) version. This font boasts readability and, with a bold weight, enhances contrast with other content, making it more visually striking even from a distance.
+The gallery predominantly employs its bespoke font, _Reichenberg_, in its public communications, including the gallery logo and the internal orientation system. Therefore, incorporating this font in the promotion of the mobile app seems fitting. However, given _Reichenberg_'s lack of legibility and insufficiently contrast under certain conditions, an alternative version was proposed. In the app itself, the chosen typeface is Plus Jakarta Sans, a sans-serif font available in various weights, making it more versatile. Hence, Plus Jakarta Sans was utilized in the second (alternative) version. This font boasts readability and, with a bold weight, enhances contrast with other content, making it more visually striking even from a distance.
 
 ##### Mobile App Promotion — Website of the gallery and cooperating institutions
 ![Mobile App Promotion — Website of the gallery and cooperating institutions](img/Mobile-App-Promotion-Web-Site.png)
@@ -192,3 +192,6 @@ The gallery predominantly employs its bespoke font, Reichenberg, in its public c
 
 ##### Mobile App Promotion — CLV
 ![Mobile App Promotion — CLV)](img/Mobile-App-Promotion-CLV1.png)
+
+##### Mobile App Promotion — CLV
+![Mobile App Promotion — CLV)](img/Mobile-App-Promotion-CLV2.png)
