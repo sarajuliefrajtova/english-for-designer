@@ -24,6 +24,7 @@ My name is Sara Julie.
 
 For my bachelor thesis I chose to create a design and implementation of a visual interface for a mobile application for the Museum of Fine Arts Liberec.
 
-One of the reasons why the mobile app option was chosen was the simple wish to design this kind of digital product. This fact became the very first and primary impulse for the choice of the topic of this bachelor thesis.
+One primary motivation behind selecting the mobile app option was a wish to delve into the creation of digital products of this nature. This became as the initial impulse the selection of the topic for this bachelor thesis.
 
 During 2023, I was actively involved in the development of the application within the _[Česko.Digital](https://en.cesko.digital/)_ community. It is a volunteer organization that brings together volunteers mainly from the IT field who work on digital projects for non-profit organizations, state administration or local government. This community is aware of the problem of obsolescence in the field of digital technologies, which consequently negatively affects the whole society. The community aims to continuously improve this situation. This experience in Česko.Digital became one of the other, secondary impulses for the realization of the bachelor thesis. 
+
