@@ -216,3 +216,7 @@ The gallery predominantly employs its bespoke font, _Reichenberg_, in its public
 
 ##### Mobile App Promotion — Billboard
 ![Mobile App Promotion — Billboard)](img/Mobile-App-Promotion-Billboard6.png)
+
+
+### Conclusion — What I Taught Myself
+Through my bachelor's thesis, I gained insights beyond just the design aspects; I also came to understand certain personal beliefs and "bad habits" that hindered an effective design process. My inclination was always to meticulously attend to every minute detail, but this often left insufficient time for other crucial project components. While everything was ultimately completed on schedule, it came at the expense of my own rest, vital for creative work. This realization, aided by my thesis supervisor among others, has been invaluable, and I am grateful for their guidance. Moving forward, I am committed to prioritizing balance in my future projects.
