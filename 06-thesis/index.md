@@ -33,3 +33,6 @@ During 2023, I was actively involved in the development of the application withi
 
 ### Theoretical Part
 
+#### 
+In my hometown of Liberec, there's an art gallery renowned across the Czech Republic, drawing in visitors from neighboring regions like Czech-Poland and Czech-Germany. The institution's headquarters, an impressive landmark, underwent a full renovation and opened to the public in 2014. Despite this, as a frequent visitor myself, I've noted a shortfall in the quality of their digital services. The Museum of Fine Arts Liberec. underwent a complete visual identity renewal, yet its website falls short in offering a quality user interface. This observation motivated me to address this issue to the best of my abilities. Thus, I resolved to design a mobile application aimed at enhancing this aspect.
+
