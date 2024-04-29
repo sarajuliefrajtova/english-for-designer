@@ -96,8 +96,16 @@ The Atomic design methodology, conceptualized by designer Brad Frost, presents a
 
 It's common practice to define subatomic elements before defining atomic elements. Subatomic elements encompass styles, such as defining the color palettes, typography, and more.
 
-###### Subatomic Elements – Various Color Palettes
-![Subatomic Elements — Color Palettes](img/Color-Palette.jpg)
+###### Subatomic Components – Various Color Palettes
+![Subatomic Components — Color Palettes](img/Color-Palette.jpg)
 
-###### Subatomic Elements – Typography
-![Subatomic Elements — Typogprahy](img/Typography.jpg)
+###### Subatomic Components – Typography
+![Subatomic Components — Typogprahy](img/Typography.jpg)
+
+Following the definition of subatomic styles, the identification of atoms ensued. Atoms represent styles that, akin to their namesake in chemistry, cannot be further subdivided into smaller particles. In this context, atoms encompass elements such as buttons, iconography, logos, links, text elements (for instance, those used in a calendar for making reservations), and more.
+
+###### Atomic Components
+![Subatomic Components](img/Atomic-Components1.jpg)
+
+###### Atomic Components
+![Subatomic Components](img/Atomic-Components2.jpg)
