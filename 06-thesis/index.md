@@ -96,5 +96,8 @@ The Atomic design methodology, conceptualized by designer Brad Frost, presents a
 
 It's common practice to define subatomic elements before defining atomic elements. Subatomic elements encompass styles, such as defining the color palettes, typography, and more.
 
-![Subatomic elements — Color Palettes](img/Color-Palette.jpg)
-![Subatomic elements — Typogprahy](img/Typography.jpg)
+###### Subatomic Elements – Various Color Palettes
+![Subatomic Elements — Color Palettes](img/Color-Palette.jpg)
+
+###### Subatomic Elements – Typography
+![Subatomic Elements — Typogprahy](img/Typography.jpg)
