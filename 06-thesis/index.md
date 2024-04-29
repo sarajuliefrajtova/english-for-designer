@@ -12,5 +12,5 @@ by Sara Julie Frajtová
 - Download [the slides](assets/surname-title-slides.pdf) <!-- Link to your slides: PDF, Figma, etc. --> / to be added
 - Watch [the video](…) (audio + slides) / to be added
   
-### Welcome,
+### Abstract
 my name is Sara Julie. 
