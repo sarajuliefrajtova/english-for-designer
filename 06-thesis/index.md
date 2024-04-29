@@ -143,7 +143,7 @@ In crafting this High-Fidelity prototype, considerable attention was also dedica
 ![Showcase — Log-In](img/Showcase-LogIn.png)
 
 ##### Showcase — Forgotten Password
-![Showcase — Forgotten Password](img/Showcase-Forggoten-Password.png)
+![Showcase — Forgotten Password](img/Showcase-Forgotten-Password.png)
 
 ##### Showcase — Account and Pop-Up Notification Window
 ![Showcase — Account and Pop-Up Notification Window](img/Showcase-Account-LoggedIn-LoggedOut-and-Notifications.png)
