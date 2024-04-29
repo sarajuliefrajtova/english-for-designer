@@ -188,4 +188,7 @@ The gallery predominantly employs its bespoke font, Reichenberg, in its public c
 ![Mobile App Promotion — App Store, Widgets, Logo etc.](img/Mobile-App-Promotion-App-Store.png)
 
 ##### Mobile App Promotion — Social Media (Instagram)
-![Mobile App Promotion — App Store, Widgets, Logo etc.](img/Mobile-App-Promotion-Web-Instagram.png)
+![Mobile App Promotion — Social Media (Instagram)](img/Mobile-App-Promotion-Web-Instagram.png)
+
+##### Mobile App Promotion — CLV
+![Mobile App Promotion — CLV)](img/Mobile-App-Promotion-CLV1.png)
