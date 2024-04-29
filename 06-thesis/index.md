@@ -122,3 +122,5 @@ The final step in defining the Atomic Design System involved delineating the org
 
 ###### Organisms 
 ![Organisms](img/Organisms2.jpg)
+
+Following the design of all components, the next step entailed integrating them into the predetermined structure of each individual page of the application. It's worth noting that this process didn't always unfold in a linear fashion.
