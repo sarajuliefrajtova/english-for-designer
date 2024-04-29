@@ -147,3 +147,6 @@ In crafting this High-Fidelity prototype, considerable attention was also dedica
 
 ##### Showcase — Account and Pop-Up Notification Window
 ![Showcase — Account and Pop-Up Notification Window](img/Showcase-Account-LoggedIn-LoggedOut-and-Notifications.png)
+
+##### Showcase — Homepage (List of Events) and Event Detail
+![Showcase — Account and Pop-Up Notification Window](img/Showcase-Homepage-Events-List-and-Event-Detail.png)
