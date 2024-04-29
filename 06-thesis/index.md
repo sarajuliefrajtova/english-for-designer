@@ -1,4 +1,4 @@
-# Mobile App for the Regional Gallery Liberec
+# Mobile App for the Museum of Fine Arts Liberec
 ### Thesis Lightning Talk
 
 
@@ -21,4 +21,4 @@ The bachelor thesis deals with the realization of the design of a digital produc
 
 #### Welcome,
 My name is Sara Julie.
-For my bachelor thesis I chose to create a design and implementation of a visual interface for a mobile application for the Regional Gallery in Liberec
+For my bachelor thesis I chose to create a design and implementation of a visual interface for a mobile application for the Museum of Fine Arts Liberec.
