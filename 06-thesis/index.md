@@ -131,4 +131,13 @@ In total, 120 pages (screens) were meticulously crafted for the application, wit
 In crafting this High-Fidelity prototype, considerable attention was also dedicated to interaction design, i.e. prototyping. The overarching aim of prototyping was to render the application dynamic. The focus of the prototyping phase primarily revolved around implementing fundamental interactions for seamless navigation within the application. This stage didn't entail designing intricate interactions for every page or component. Thus, while this phase didn't entail designing intricate interactions for every page or component, I strived to achieve intuitive transitions between pages and elements when navigating or interacting with specific components.
 
 ##### Showcase — On-Boarding
-![Organisms](img/Showcase-On-Boarding.png)
+![Showcase — On-Boarding](img/Showcase-On-Boarding.png)
+
+##### Showcase — Sign-Up
+![Showcase — Sign-Up](img/Showcase-SignUp.png)
+
+##### Showcase — Sign-Up Incorrectly Filled Input
+![Showcase — Sign-Up Incorrectly Filled Input](img/Showcase-SignUp-Incorrectly-Filled-Input.png)
+
+##### Showcase — Log-In
+![Showcase — Log-In](img/Showcase-LogIn.png)
