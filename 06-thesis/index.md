@@ -178,3 +178,5 @@ The gallery predominantly employs its bespoke font, Reichenberg, in its public c
 ##### Mobile App Promotion — Website of the gallery and cooperating institutions
 ![Mobile App Promotion — Website of the gallery and cooperating institutions](img/Mobile-App-Promotion-Web-Site.png)
 
+##### Mobile App Promotion — Website of the gallery and cooperating institutions
+![Mobile App Promotion — Website of the gallery and cooperating institutions](img/Mobile-App-Promotion-Web-Sites2.png)
