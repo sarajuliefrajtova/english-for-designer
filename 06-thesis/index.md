@@ -109,3 +109,7 @@ Following the definition of subatomic styles, the identification of atoms ensued
 
 ###### Atomic Components
 ![Subatomic Components](img/Atomic-Components2.jpg)
+
+###### Molecular Components
+The subsequent stage involved crafting molecular components, which are compositions of individual atomic elements. Similar to the challenge encountered with atomic elements, distinguishing between molecular components and organisms was not always straightforward. Within the context of this mobile application, molecular components encompass inputs (such as input fields within a form), checkboxes with text, registration progress indicators, menus with buttons, page-specific headers, sliders for selecting ticket quantities, elements for playing audio recordings, image carousels, and more.
+
