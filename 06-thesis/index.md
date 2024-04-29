@@ -57,4 +57,6 @@ This project was self-initiated, thus not commissioned by an official client. Wh
 The initial concept for the mobile application took shape during the summer semester of 2023 as part of the Digital Design course, presented as a term paper. This concept served as a foundational framework for the bachelor thesis, where it underwent significant expansion and refinement.
 
 #### Initial mobile app concept
+The initial concept for the mobile application took shape during the summer semester of 2023 as part of the Digital Design course, presented as a term paper. This concept served as a foundational framework for the bachelor thesis, where it underwent significant expansion and refinement.
+
 The original app concept also encompassed Desk Research, the establishment of a fundamental style library, UI development, and prototyping. Desk Research involved identifying three protopersonas, constructing a Value Proposition Canvas, and examining the current state of the gallery, including its website, information architecture, and presence on social networks. These insights laid the groundwork for a basic application framework, which proved invaluable, particularly during the preparation for in-depth interviews conducted as part of the bachelor thesis.
