@@ -41,3 +41,7 @@ Within the theoretical segment of the thesis, I delve into UX and UI methodologi
 
 ### Practical Part
 After acquiring a sufficient theoretical foundation, one that broadened my understanding and paved the way for practical application, I embarked on the practical phase.
+
+#### Analysis of The Current Situtation of The Gallery
+At the beginning of the bachelor's thesis it was necessary to define a specific practical result, the creation of which this thesis deals 
+At the outset of the bachelor's thesis, it was imperative to delineate the specific practical outcome the creation of which this thesis deals with.. As previously mentioned, the output of the thesis constitutes a digital product. However, before defining the product, an analysis phase of the gallery's current situation was paramount. This analysis entailed a desk research approach, involving gathering information primarily through online sources such as internet searches, without the necessity of field visits. This research served to establish a framework of the gallery's current digital landscape and beyond. Drawing from these insights, a preliminary concept for the digital product emerged. This phase entailed sifting through numerous relevant sources, followed by meticulous processing and evaluation of gathered data. Given the nature of the entity as a contributory organization of the Liberec Region, information was sourced not only from the institution's official website and newsletters but also from press conferences.
