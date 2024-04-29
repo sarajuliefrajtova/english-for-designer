@@ -71,3 +71,8 @@ Upon completion of the interview, all responses were meticulously transcribed fr
 The insights garnered from the interview facilitated the delineation of three user protopersonas, emblematic of the primary target groups. These protopersonas are assigned fictitious names, employing a method where the surname reflects their main characteristic related to their primary need or goal.
 
 This phase of the research involved more beyond the in-depth interview and the associated protoperson definition. Other parallel activities included a comprehensive analysis of analogous mobile applications available on the market and an proper examination of the current official gallery website.
+
+#### Information Architecture (IA)
+Following the research phase, ample information was gathered for the subsequent step: defining the product's information architecture. The insights derived from the in-depth interview facilitated the framework for determining essential functionalities within the application context, as well as identifying redundancies.
+
+During the initial design phase of the mobile application, certain functionalities were identified for modification or removal in subsequent phases, while numerous new functionalities were primarily introduced. Both the in-depth interview and a comprehensive survey of analogous apps available in the current market contributed to this process. Additionally, the examination of the current official gallery website played a pivotal role, particularly in analyzing its structure.
