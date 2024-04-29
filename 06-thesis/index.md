@@ -171,3 +171,6 @@ In crafting this High-Fidelity prototype, considerable attention was also dedica
 
 ##### Showcase — Tickets
 ![Showcase — Tickets](img/Showcase-Ticket-Sections.png)
+
+#### Analysis of The Current Situtation of The Gallery
+The gallery predominantly employs its bespoke font, Reichenberg, in its public communications, including the gallery logo and the internal orientation system. Therefore, incorporating this font in the promotion of the mobile app seems fitting. However, given Reichenberg's lack of legibility and insufficiently contrast under certain conditions, an alternative version was proposed. In the app itself, the chosen typeface is Plus Jakarta Sans, a sans-serif font available in various weights, making it more versatile. Hence, Plus Jakarta Sans was utilized in the second (alternative) version. This font boasts readability and, with a bold weight, enhances contrast with other content, making it more visually striking even from a distance.
