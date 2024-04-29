@@ -65,3 +65,9 @@ The original app concept also encompassed Desk Research, the establishment of a 
 Research stands as a crucial phase in the entire product design process. Among the various research activities, conducting in-depth interviews proved to be particularly significant and beneficial.
 
 The choice of in-depth interviews as a qualitative research method was deliberate, aimed at extracting the most relevant information and data concerning the gallery while gaining deeper insights into the institution's current state. While this acquired information may not have directly influenced the modification of existing elements or the definition of additional features for the mobile application, it served as valuable input that could be further refined and developed.
+
+Upon completion of the interview, all responses were meticulously transcribed from the tape recorder into a text document to ensure the preservation of information in the most accessible format for future reference. Concurrently, while transcribing the answers, the findings were evaluated for their potential integration into the application concept.
+
+The insights garnered from the interview facilitated the delineation of three user protopersonas, emblematic of the primary target groups. These protopersonas are assigned fictitious names, employing a method where the surname reflects their main characteristic related to their primary need or goal.
+
+This phase of the research involved more beyond the in-depth interview and the associated protoperson definition. Other parallel activities included a comprehensive analysis of analogous mobile applications available on the market and an proper examination of the current official gallery website.
