@@ -18,3 +18,5 @@ The bachelor thesis deals with the realization of the design of a digital produc
 ![Uploading image.png…]()
 
 ## Article
+
+### Introduction
