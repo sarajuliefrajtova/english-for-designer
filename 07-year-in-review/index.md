@@ -19,7 +19,7 @@ Considering that option 1 also encompasses a period when school is not in sessio
 - Prioritizing perfection in all work you do at the expense of sleep is a method that ultimately undermines a significant portion of your health.
 - Time-management is an essential.
 - I never thought that English classes could be so enriching for my personal development. One of the realizations is that I'm not solely “Sara, a designer from Liberec.“ It's made me realize that the question “Who are we?“ can be perceived in ways different from our perception.
-- Honest communication is essential in all aspects of life. If you feel unwell, communicate it. If we would like to approach something differently, communicate it etc.
+- Honest communication is essential in all aspects of life. If you feel unwell, communicate it. If you would like to approach something differently, communicate it etc.
 
 ## In the Professional Life I've Learned:
 - Don't underestimate the valuation of the work, devote a whole day to it.
