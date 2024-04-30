@@ -15,7 +15,7 @@ Considering that option 1 also encompasses a period when school is not in sessio
 
 ## In the School I've learned:
 - The field of study we choose doesn't solely dictate our future. Like many other aspects of our lives, our chosen field of study encompasses more than just the knowledge and skills we acquire. It becomes an integral part of our life journey, influencing us in ways that extend far beyond what we perceive.
-- Striving for perfection isn't necessary in everything I do. Instead, I aim to do my best, based on how I feel and what I'm capable of at the time.
+- Striving for perfection isn't necessary in everything we do. Instead, we aim to do our best, based on how we feel and what we're capable of at the time.
 - Prioritizing perfection in all work we do at the expense of sleep is a method that ultimately undermines a significant portion of our health.
 - Time-management is an essential.
 - I never thought that English classes could be so enriching for my personal development.
