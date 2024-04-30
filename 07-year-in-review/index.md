@@ -19,3 +19,4 @@ Considering that option 1 also encompasses a period when school is not in sessio
 - Prioritizing perfection in all work we do at the expense of sleep is a method that ultimately undermines a significant portion of our health.
 - Time-management is an essential.
 - I never thought that English classes could be so enriching for my personal development.
+- Honest communication is essential in all aspects of life. If we feel unwell, communicate it. If we would like to approach something differently, communicate it.
