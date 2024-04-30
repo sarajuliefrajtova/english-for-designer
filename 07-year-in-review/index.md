@@ -27,3 +27,6 @@ Considering that option 1 also encompasses a period when school is not in sessio
 - If something is beyond the scope of your work, get paid for it.
 - Get some rest. Without rest, your work won't be worthwhile
 - There is always room for improvement, but at some point, we have to say “Enough is enough.“.
+- Don’t underestimate your personal value.
+- Ask your colleagues for help/opinion whenever you need it. You areen’t competent to know everything. Don't be afraid to be the 'dumbest' in the room you're never actually dumb, it's just your ego that thinks you are.
+- Explore new, less unpredictable journeys, the power of serendipity is marvellous
