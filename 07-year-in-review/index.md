@@ -6,10 +6,12 @@ by Sara Julie Frajtová
   
 
 ## Introduction
-Při otázce „Jak by si zhodnotila tvůj rok?", mi vyvstanou na povrch 2 možné varianty, jak toto mohu chápat.
+When I reflect on the question, "How would you evaluate your year?" two potential interpretations emerge:
 
-1. Mohu to chápat jako periodu tvořenou 12 měsíci od ledna do prosince (roku 2023.)
-2. Mohu to chápat jako školní období — tedy od října 2023 do června 2024.
+1. I could interpret it as encompassing the entire calendar year, from January to December of 2023.
+2. Alternatively, I could view it as a school term, spanning from October 2023 to June 2024.
 
-Vzhledem k tomu, že v rámci 1. varianty je zahrnuto rovnež období, kdy neprobíhalo vyučování, bylo tedy výrazně odlišné. Rozhodla jsem se pro tuto „variantu".
+Considering that Option 1 also encompasses a period when school is not in session, it represents a significantly broader timeframe. Consequently, I have chosen this 'option'.
 
+## In the School I've learned:
+- 
