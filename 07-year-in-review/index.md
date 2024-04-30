@@ -38,3 +38,6 @@ Considering that option 1 also encompasses a period when school is not in sessio
 - Instead of forcing something too hard, allow it to flow naturally. There's a reason why there are obstacles in your path. Even water doesn't resist; it always finds its natural course.
 - Stop fighting your fears, your emotions... it's part of your space. The space is you. You're only fighting your own self.
 - When you eat, you eat. When you work, you work. Don't combine them. You won't rest and your work will be inefficient. And that goes for everything. Multitasking is unproductive.
+- Breath. Properly. 
+- Don’t take yourself too seriously — in all manners.
+- Keep your mind clean. Keep your mind empty. Uncluttered. Having a mind full of thoughts isn’t our innate state.
