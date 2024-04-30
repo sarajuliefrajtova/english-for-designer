@@ -14,5 +14,6 @@ When I reflect on the question, “How would you evaluate your year?” two pote
 Considering that option 1 also encompasses a period when school is not in session, it represents a significantly broader timeframe. Consequently, I have chosen this “option”
 
 ## In the School I've learned:
+- The field of study we choose does not solely dictate our future. Like many other aspects of our lives, our chosen field of study encompasses more than just the knowledge and skills we acquire. It becomes an integral part of our life journey, influencing us in ways that extend far beyond what we perceive.
 - Prioritizing perfection in all work we do at the expense of sleep is a method that ultimately undermines a significant portion of our health.
 - Time-Management is an essential.
