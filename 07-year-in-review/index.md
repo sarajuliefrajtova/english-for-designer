@@ -14,8 +14,8 @@ When I reflect on the question, “How would you evaluate your year?” two pote
 Considering that option 1 also encompasses a period when school is not in session, it represents a significantly broader timeframe. Consequently, I have chosen this “option”
 
 ## In the School I've learned:
-- The field of study you choose doesn't solely dictate your future. Like many other aspects of your lives, your chosen field of study encompasses more than just the knowledge and skills you acquire. It becomes an integral part of your life journey, influencing us in ways that extend far beyond what we perceive.
-- Striving for perfection isn't necessary in everything you do. Instead, you aim to do our best, based on how we feel and what you're capable of at the time.
+- The field of study you choose doesn't solely dictate your future. Like many other aspects of your lives, your chosen field of study encompasses more than just the knowledge and skills you acquire. It becomes an integral part of your life journey, influencing us in ways that extend far beyond what you perceive.
+- Striving for perfection isn't necessary in everything you do. Instead, you aim to do our best, based on how you feel and what you're capable of at the time.
 - Prioritizing perfection in all work you do at the expense of sleep is a method that ultimately undermines a significant portion of your health.
 - Time-management is an essential.
 - I never thought that English classes could be so enriching for my personal development. One of the realizations is that I'm not solely “Sara, a designer from Liberec.“ It's made me realize that the question “Who are we?“ can be perceived in ways different from our perception.
