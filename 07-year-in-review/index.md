@@ -33,3 +33,5 @@ Considering that option 1 also encompasses a period when school is not in sessio
 - Rejecting new, currently unfeasible (whether for financial or other reasons ideas means limiting your ability to develop. The future is unpredictible.
 - You don't have to be perfect. Perfectionism is just a lack of authenticity.
 - As a strongly detail-oriented person, set yourself a time frame in which you have to complete a certain goal and be happy with what you have created without constantly modifying it.
+
+## In My Personal Life I've Learned:
