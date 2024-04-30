@@ -35,3 +35,4 @@ Considering that option 1 also encompasses a period when school is not in sessio
 - As a strongly detail-oriented person, set yourself a time frame in which you have to complete a certain goal and be happy with what you have created without constantly modifying it.
 
 ## In My Personal Life I've Learned:
+- Instead of forcing something too hard, allow it to flow naturally. There's a reason why there are obstacles in your path. Even water doesn't resist; it always finds its natural course.
