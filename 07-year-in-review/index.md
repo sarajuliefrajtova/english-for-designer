@@ -20,3 +20,5 @@ Considering that option 1 also encompasses a period when school is not in sessio
 - Time-management is an essential.
 - I never thought that English classes could be so enriching for my personal development. One of the realizations is that I'm not solely “Sara, a designer from Liberec.“ It's made me realize that the question “Who are we?“ can be perceived in ways different from our perception.
 - Honest communication is essential in all aspects of life. If we feel unwell, communicate it. If we would like to approach something differently, communicate it etc.
+
+## In the Professional Life I've learned:
