@@ -9,7 +9,7 @@ by Sara Julie Frajtová
 
 ### Links —
 - Download [the audio](…) <!-- Optional audio-only — think podcast. --> / to be added
-- Download [the slides](slides/06-thesis-slides-compressed.pdf) <!-- Link to your slides: PDF, Figma, etc. --> / to be added
+- Download [the slides](slides/06-thesis-slides_compressed.pdf) <!-- Link to your slides: PDF, Figma, etc. --> / to be added
 - Watch [the video](…) (audio + slides) / to be added
   
 ## Abstract
