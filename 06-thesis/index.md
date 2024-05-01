@@ -175,14 +175,14 @@ In crafting this High-Fidelity prototype, considerable attention was also dedica
 #### Mobile App Promotion
 The gallery predominantly employs its bespoke font, _Reichenberg_, in its public communications, including the gallery logo and the internal orientation system. Therefore, incorporating this font in the promotion of the mobile app seems fitting. However, given _Reichenberg_'s lack of legibility and insufficiently contrast under certain conditions, an alternative version was proposed. In the app itself, the chosen typeface is Plus Jakarta Sans, a sans-serif font available in various weights, making it more versatile. Hence, Plus Jakarta Sans was utilized in the second (alternative) version. This font boasts readability and, with a bold weight, enhances contrast with other content, making it more visually striking even from a distance.
 
-##### Mobile App Promotion — Website of the gallery and cooperating institutions
-![Mobile App Promotion — Website of the gallery and cooperating institutions](img/Mobile-App-Promotion-Web-Site.png)
+##### Mobile App Promotion — Website of The Gallery and Cooperating Institutions
+![Mobile App Promotion — Website of The Gallery and Cooperating Institutions](img/Mobile-App-Promotion-Web-Site.png)
 
-##### Mobile App Promotion — Website of the gallery and cooperating institutions
-![Mobile App Promotion — Website of the gallery and cooperating institutions](img/Mobile-App-Promotion-Web-Sites2.png)
+##### Mobile App Promotion — Website of The Gallery and Cooperating Institutions
+![Mobile App Promotion — Website of The Gallery and Cooperating Institutions](img/Mobile-App-Promotion-Web-Sites2.png)
 
-##### Mobile App Promotion — Website of the gallery and cooperating institutions
-![Mobile App Promotion — Website of the gallery and cooperating institutions](img/Mobile-App-Promotion-Web-Sites3.png)
+##### Mobile App Promotion — Website of The Gallery and Cooperating Institutions
+![Mobile App Promotion — Website of The Gallery and Cooperating Institutions](img/Mobile-App-Promotion-Web-Sites3.png)
 
 ##### Mobile App Promotion — App Store, Widgets, Logo etc.
 ![Mobile App Promotion — App Store, Widgets, Logo etc.](img/Mobile-App-Promotion-App-Store.png)
