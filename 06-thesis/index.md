@@ -36,7 +36,7 @@ During 2023, I was actively involved in the development of the application withi
 #### Present Circumstances 
 In my hometown of Liberec, there's an art gallery renowned across the Czech Republic, drawing in visitors from neighboring regions like Czech-Poland and Czech-Germany. The institution's headquarters, an impressive landmark, underwent a full renovation and opened to the public in 2014. Despite this, as a frequent visitor myself, I've noted a shortfall in the quality of their digital services. The Museum of Fine Arts Liberec underwent a complete visual identity renewal, yet its [website](https://www.ogl.cz/en/) falls short in offering a quality user interface. This observation motivated me to address this issue to the best of my abilities. Thus, I resolved to design a mobile application aimed at enhancing this aspect.
 
-#### What was given space in the theoretical part 
+#### What Was Given Space In The Theoretical Part 
 Within the theoretical segment of the thesis, I delve into UX and UI methodologies crucial for crafting a solid user experience and interface. Emphasis is placed on establishing a UI library founded upon the principles of Atomic design methodology. Additionally, I elaborate on the principles and significance of interaction design. Furthermore, I explore the intricacies of product design, specifically tailored to mobile applications as a subset of digital products. Among others, I examine the contemporary approach of museums towards digital products and services.
 
 ### Practical Part
@@ -47,7 +47,7 @@ At the outset of the bachelor's thesis, it was imperative to delineate the speci
 
 However, before defining the product, an analysis phase of the gallery's current situation was paramount. This analysis entailed a Desk research approach, involving gathering information primarily through online sources such as internet searches, without the necessity of field visits. This research served to establish a framework of the gallery's current digital landscape and beyond. Drawing from these insights, a preliminary concept for the digital product emerged. This phase entailed sifting through numerous relevant sources, followed by meticulous processing and evaluation of gathered data. Given the nature of the entity as a contributory organization of the Liberec Region, information was sourced not only from the institution's official website and newsletters but also from press conferences.
 
-#### Digital product definition
+#### Digital Product Definition
 Upon completion of the desk research, a preliminary concept for the digital product began to take form.
 
 Defining the product and establishing objectives stand as pivotal starting points in the UX Design process.
@@ -56,7 +56,7 @@ This project was self-initiated, thus not commissioned by an official client. Wh
 
 The initial concept for the mobile application took shape during the summer semester of 2023 as part of the Digital Design course, presented as a term paper. This concept served as a foundational framework for the bachelor thesis, where it underwent significant expansion and refinement.
 
-#### Initial mobile app concept
+#### Initial Mobile App Concept
 The initial concept for the mobile application took shape during the summer semester of 2023 as part of the Digital Design course, presented as a term paper. This concept served as a foundational framework for the bachelor thesis, where it underwent significant expansion and refinement.
 
 The original app concept also encompassed Desk Research, the establishment of a fundamental style library, UI development, and prototyping. Desk Research involved identifying three protopersonas, constructing a Value Proposition Canvas, and examining the current state of the gallery, including its website, information architecture, and presence on social networks. These insights laid the groundwork for a basic application framework, which proved invaluable, particularly during the preparation for in-depth interviews conducted as part of the bachelor thesis.
