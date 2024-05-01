@@ -9,7 +9,7 @@ by Sara Julie Frajtová
 
 ### Links —
 - Download [the audio](…) <!-- Optional audio-only — think podcast. --> / to be added
-- See [the slides](https://www.figma.com/proto/5R1l3K861NJW8Ehw1aSIXD/ANJ-%E2%80%94-06-thesis-presentation?page-id=0%3A1&type=design&node-id=1-2&viewport=474%2C316%2C0.26&t=lZZqT3Pqm8S7NxbM-1&scaling=contain&starting-point-node-id=1%3A2&mode=design))
+- See [the slides](https://www.figma.com/proto/5R1l3K861NJW8Ehw1aSIXD/ANJ-%E2%80%94-06-thesis-presentation?page-id=0%3A1&type=design&node-id=1-2&viewport=474%2C316%2C0.26&t=lZZqT3Pqm8S7NxbM-1&scaling=contain&starting-point-node-id=1%3A2&mode=design)
 - Watch [the video](…) (audio + slides) / to be added
   
 ## Abstract
