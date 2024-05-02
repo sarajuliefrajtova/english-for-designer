@@ -127,7 +127,7 @@ The desire to shine. To shine for the eyes of others. A strong desire that engul
 
 The darkness within us. It has swallowed us. There is nothing left. No ray — inside or outside. Inside. Or outside, _us_. 
 
-We're at the bottom. Deep. Paralyzed. Shrouded in darkness. A darkness that engulfs us. We are in space. In the space that we are. Which is ourselves. We breathe - heavily. Everything. Everything around us and within us. Everything is so empty. So numb. Without emotion. Without shapes. So unreal. So lost. So meaningless.
+We're at the bottom. Deep. Paralyzed. Shrouded in darkness. A darkness that engulfs us. We are in space. In the space that we are. Which is ourselves. We breathe — heavily. Everything. Everything around us and within us. Everything is so empty. So numb. Without emotion. Without shapes. So unreal. So lost. So meaningless.
 
 Inert matter. 
 
