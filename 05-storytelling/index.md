@@ -163,4 +163,4 @@ The familiar tone. The tone we weren't listening to. The tone we resisted. Music
 
 Burdens and joys. Burdens and joys float. They float in the space. They float within us. But they are no more. They are no more a part of us.
 
-_will be completed — still in the process_
+**will be completed — still in the process**
